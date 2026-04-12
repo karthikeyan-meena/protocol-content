@@ -1,9 +1,54 @@
 {
   "version": 1,
   "schema_version": 1,
-  "content_version": "2026-04-12.5",
-  "updated_at": "2026-04-12T13:35:00Z",
+  "content_version": "2026-04-12.6",
+  "updated_at": "2026-04-12T13:46:00Z",
   "minimum_app_version": null,
+  "whatsNew": [
+    {
+      "id": "royal-ascot-dress-update",
+      "title": "Royal Ascot",
+      "summary": "Dress notes have been refined for the 2026 season.",
+      "type": "dress_notes_revised",
+      "relatedOccasionId": "royal-ascot",
+      "relatedSection": "Dress notes",
+      "publishedAt": "2026-04-12T10:00:00Z",
+      "isPremium": true,
+      "badgeLabel": "Updated this week"
+    },
+    {
+      "id": "henley-access-update",
+      "title": "Henley Royal Regatta",
+      "summary": "Access guidance has been tightened for house parties, enclosures, and timing.",
+      "type": "access_guidance_updated",
+      "relatedOccasionId": "henley-royal-regatta",
+      "relatedSection": "Access guidance",
+      "publishedAt": "2026-04-11T09:00:00Z",
+      "isPremium": true,
+      "badgeLabel": "Refined"
+    },
+    {
+      "id": "paris-couture-live",
+      "title": "Paris Haute Couture Week",
+      "summary": "The briefing is now live for the upcoming season.",
+      "type": "briefing_now_live",
+      "relatedOccasionId": "paris-haute-couture-week",
+      "relatedSection": "Briefing",
+      "publishedAt": "2026-04-10T09:00:00Z",
+      "isPremium": false,
+      "badgeLabel": "Now live"
+    },
+    {
+      "id": "season-notes-april",
+      "title": "Season Notes",
+      "summary": "Several spring briefings have been tightened for clarity and quicker reading.",
+      "type": "editorial_note",
+      "relatedSection": "Editorial",
+      "publishedAt": "2026-04-09T09:00:00Z",
+      "isPremium": false,
+      "badgeLabel": "Editor's note"
+    }
+  ],
   "events": [
     {
       "id": "white-tie",
