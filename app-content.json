@@ -1,8 +1,8 @@
 {
   "version": 1,
   "schema_version": 1,
-  "content_version": "2026-04-12.3",
-  "updated_at": "2026-04-12T11:30:00Z",
+  "content_version": "2026-04-12.4",
+  "updated_at": "2026-04-12T13:15:00Z",
   "minimum_app_version": null,
   "events": [
     {
@@ -376,9 +376,14 @@
       "briefing_release_date": "2025-10-18T09:00:00Z",
       "season_year": 2026,
       "status": "completed",
-      "last_updated_at": "2026-04-12T11:30:00Z",
+      "last_updated_at": "2026-04-12T13:15:00Z",
       "preview_summary": "The January menswear shows open the European fashion calendar with a rhythm built around appointments, presentations, and a great deal of silent judgment in hotel lobbies.",
-      "premium_briefing": "The shows matter, but the real currency sits in showroom appointments, private client lunches, and whether a house bothered to place you on a list rather than in a holding line."
+      "premium_briefing": "The shows matter, but the real currency sits in showroom appointments, private client lunches, and whether a house bothered to place you on a list rather than in a holding line.",
+      "seen_online": [
+        "The feed leans hard on arrival shots and street style, but the better signal is whether a house posts you from a showroom, fitting, or seated show position.",
+        "Generic attendance looks like pavement photography; real access tends to appear through brand-host tags, invitation-only dinners, and calm bench-level imagery.",
+        "The strongest online clue is usually proximity to house teams rather than louder personal styling."
+      ]
     },
     {
       "id": "world-economic-forum-annual-meeting",
@@ -424,9 +429,14 @@
       "briefing_release_date": "2025-10-21T09:00:00Z",
       "season_year": 2026,
       "status": "completed",
-      "last_updated_at": "2026-04-12T11:30:00Z",
+      "last_updated_at": "2026-04-12T13:15:00Z",
       "preview_summary": "Davos is less a conference than a temporary court of power, where scheduling discipline, introductions, and discretion matter as much as any panel title.",
-      "premium_briefing": "Badges decide more than charm. The decisive move is reaching the right security zone on time, then understanding which conversation is public, on background, or simply not yours to mention later."
+      "premium_briefing": "Badges decide more than charm. The decisive move is reaching the right security zone on time, then understanding which conversation is public, on background, or simply not yours to mention later.",
+      "seen_online": [
+        "Public posts overemphasize panel stages and snowy badges; the stronger access signal is a chalet breakfast, side-event dinner, or small group photo away from the main halls.",
+        "Generic Davos attendance looks like lanyards and stage sets; real standing is usually signaled through who is quietly in the room with you.",
+        "The most polished online behavior is restrained: fewer declarations, more selective context."
+      ]
     },
     {
       "id": "snow-polo-world-cup-st-moritz",
@@ -472,9 +482,14 @@
       "briefing_release_date": "2025-10-25T09:00:00Z",
       "season_year": 2026,
       "status": "completed",
-      "last_updated_at": "2026-04-12T11:30:00Z",
+      "last_updated_at": "2026-04-12T13:15:00Z",
       "preview_summary": "Played on the frozen lake, Snow Polo is one of the clearest examples of Alpine society at full gloss: sport in the foreground, hospitality and observation just behind it.",
-      "premium_briefing": "The strongest positions are not necessarily at the rail but at the right lunch table. Snow Polo rewards guests who can move from ice to hospitality without looking either underprepared or theatrically alpine."
+      "premium_briefing": "The strongest positions are not necessarily at the rail but at the right lunch table. Snow Polo rewards guests who can move from ice to hospitality without looking either underprepared or theatrically alpine.",
+      "seen_online": [
+        "The feed loves glossy lake-edge glamour, but genuine access shows up through sponsor hospitality angles and lunch-table continuity rather than rail-side posing.",
+        "Posts with hosts, patrons, or team circles signal more than generic frozen-lake portraits.",
+        "A recurring online tell is ease indoors after the match; the best-dressed guests still look prepared once the coat comes off."
+      ]
     },
     {
       "id": "paris-haute-couture-week",
@@ -520,9 +535,14 @@
       "briefing_release_date": "2025-10-28T09:00:00Z",
       "season_year": 2026,
       "status": "completed",
-      "last_updated_at": "2026-04-12T11:30:00Z",
+      "last_updated_at": "2026-04-12T13:15:00Z",
       "preview_summary": "Haute Couture Week is Paris at its most ceremonial in fashion terms: fewer rooms, more weight, and a higher premium on ease, judgment, and access.",
-      "premium_briefing": "Couture is not about being seen at the door; it is about being expected in the salon. Houses remember who protects intimacy, respects house PR, and understands that the real access point is the private appointment."
+      "premium_briefing": "Couture is not about being seen at the door; it is about being expected in the salon. Houses remember who protects intimacy, respects house PR, and understands that the real access point is the private appointment.",
+      "seen_online": [
+        "Online coverage favors front rows and couture exits, but the better signal is a salon fitting, atelier detail, or a maison posting you in a controlled interior.",
+        "Generic attendance looks like doorway photography; genuine standing usually appears through private appointment context rather than red-carpet energy.",
+        "The most credible online cue is intimacy with the house, not visual noise."
+      ]
     },
     {
       "id": "the-ice-st-moritz",
@@ -568,9 +588,14 @@
       "briefing_release_date": "2025-11-01T09:00:00Z",
       "season_year": 2026,
       "status": "completed",
-      "last_updated_at": "2026-04-12T11:30:00Z",
+      "last_updated_at": "2026-04-12T13:15:00Z",
       "preview_summary": "The I.C.E. brings exceptional classic cars onto the frozen lake and turns an automotive concours into one of the season's most photogenic social gatherings.",
-      "premium_briefing": "The spectacle is public; the collector conversation is not. The I.C.E. rewards guests who understand how to admire rare machinery without behaving as if rarity entitles them to proximity."
+      "premium_briefing": "The spectacle is public; the collector conversation is not. The I.C.E. rewards guests who understand how to admire rare machinery without behaving as if rarity entitles them to proximity.",
+      "seen_online": [
+        "The public image is all dawn light and cars on the lake, yet the sharper access clue is being shown near owners, judges, or partner hospitality rather than just beside the vehicles.",
+        "Generic attendance looks like scenic concours photography; real proximity tends to appear in calmer, closer frames with the host ecosystem.",
+        "Online restraint matters here: collectors who truly belong rarely post as if they discovered the event that morning."
+      ]
     },
     {
       "id": "piarist-debutante-ball",
@@ -616,9 +641,14 @@
       "briefing_release_date": "2025-11-02T19:00:00Z",
       "season_year": 2026,
       "status": "completed",
-      "last_updated_at": "2026-04-12T11:30:00Z",
+      "last_updated_at": "2026-04-12T13:15:00Z",
       "preview_summary": "A formal New York winter ball with charitable purpose and old-world formality, the Piarist Ball still values manners, introductions, and the choreography of the room.",
-      "premium_briefing": "Debutante balls reward visible courtesy. The useful guests are the ones who can honour family hierarchy, philanthropic purpose, and ceremonial pacing without looking as though they have come to transact."
+      "premium_briefing": "Debutante balls reward visible courtesy. The useful guests are the ones who can honour family hierarchy, philanthropic purpose, and ceremonial pacing without looking as though they have come to transact.",
+      "seen_online": [
+        "The feed naturally centers gowns, staircases, and formal lineups, but the more telling signal is who is named through host tables, family groups, and committee acknowledgments.",
+        "Generic attendance can look glamorous; genuine standing appears in how closely a guest is tied to the philanthropic and family structure of the evening.",
+        "Posts that mention the cause or the host family tend to read more authentically than pure ballroom spectacle."
+      ]
     },
     {
       "id": "white-turf-st-moritz",
@@ -664,9 +694,14 @@
       "briefing_release_date": "2025-11-10T09:00:00Z",
       "season_year": 2026,
       "status": "completed",
-      "last_updated_at": "2026-04-12T11:30:00Z",
+      "last_updated_at": "2026-04-12T13:15:00Z",
       "preview_summary": "White Turf combines racing, hospitality, and St. Moritz spectacle across three Sundays, with the frozen lake acting as both sporting venue and social stage.",
-      "premium_briefing": "White Turf is a sporting day that quietly sorts the practiced from the theatrical. The guests who get it right are warm enough, punctual enough, and socially light enough to stay elegant through three hours on a frozen lake."
+      "premium_briefing": "White Turf is a sporting day that quietly sorts the practiced from the theatrical. The guests who get it right are warm enough, punctual enough, and socially light enough to stay elegant through three hours on a frozen lake.",
+      "seen_online": [
+        "Online imagery favors skikjoring drama, winter coats, and champagne-on-ice moments, while deeper access shows up in repeated sponsor or hospitality placement across the Sundays.",
+        "A one-off race-day portrait signals attendance; recurring posts with the same hosts or enclosure often signal actual anchoring in the St. Moritz circuit.",
+        "The feed rewards spectacle, but the more useful clue is who looks comfortably placed between race rail and lunch tent."
+      ]
     },
     {
       "id": "vienna-opera-ball",
@@ -714,9 +749,14 @@
       "briefing_release_date": "2025-11-14T18:00:00Z",
       "season_year": 2026,
       "status": "completed",
-      "last_updated_at": "2026-04-12T11:30:00Z",
+      "last_updated_at": "2026-04-12T13:15:00Z",
       "preview_summary": "The Opera Ball remains one of the rare evenings in Europe where white tie is not nostalgic styling but live protocol, observed closely and enforced without apology.",
-      "premium_briefing": "The visible glamour hides a highly regulated evening: dress is inspected, movement during the opening is conspicuous, and the guests who look most at ease are usually the ones who prepared for the protocol rather than the photographs."
+      "premium_briefing": "The visible glamour hides a highly regulated evening: dress is inspected, movement during the opening is conspicuous, and the guests who look most at ease are usually the ones who prepared for the protocol rather than the photographs.",
+      "seen_online": [
+        "Public posts revolve around the grand staircase, opening ceremony, and white tie pageantry; the subtler signal is being seen correctly placed inside boxes, loges, or formal receiving lines.",
+        "Generic attendance looks like staircase theatre; real standing usually appears through how naturally the evening sequence seems to include you.",
+        "The strongest online marker is correctness without performance: no visible scramble, no novelty treatment of white tie."
+      ]
     },
     {
       "id": "cannes-film-festival",
@@ -762,9 +802,14 @@
       "briefing_release_date": "2026-02-11T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T11:30:00Z",
+      "last_updated_at": "2026-04-12T13:15:00Z",
       "preview_summary": "Cannes is a festival, a market, and a social test conducted under Mediterranean light. Proper conduct is mostly about timing, dress discipline, and reading which invitation actually matters.",
-      "premium_briefing": "Cannes rewards guests who separate access from atmosphere. A red carpet appearance may be the least strategic part of the day compared with a breakfast meeting, market screening, or correctly placed dinner."
+      "premium_briefing": "Cannes rewards guests who separate access from atmosphere. A red carpet appearance may be the least strategic part of the day compared with a breakfast meeting, market screening, or correctly placed dinner.",
+      "seen_online": [
+        "The red carpet dominates the feed, but the more meaningful online signal is a screening badge, market meeting, yacht lunch, or dinner hosted by the right people.",
+        "Generic Cannes attendance looks like Croisette posing; genuine access usually appears through layered calendars and specific invitation context.",
+        "A useful rule: the less someone needs to prove they reached the carpet, the more likely they are also on the private schedule."
+      ]
     },
     {
       "id": "monaco-grand-prix",
@@ -810,9 +855,14 @@
       "briefing_release_date": "2026-03-06T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T11:30:00Z",
+      "last_updated_at": "2026-04-12T13:15:00Z",
       "preview_summary": "Monaco Grand Prix weekend is as much about terraces, tenders, and invitations as it is about racing. The calendar rewards precision more than exuberance.",
-      "premium_briefing": "Monaco compresses hierarchy into a few streets and a harbour. The useful question is rarely whether you are in Monaco, but whose deck, whose terrace, and whose lunch you are actually on."
+      "premium_briefing": "Monaco compresses hierarchy into a few streets and a harbour. The useful question is rarely whether you are in Monaco, but whose deck, whose terrace, and whose lunch you are actually on.",
+      "seen_online": [
+        "Online noise centers on yachts, pit-lane selfies, and harbour glamour, while stronger access is usually revealed by exact host terraces, deck shots, and timed tender arrivals.",
+        "Generic attendance can imitate exclusivity from shore; real proximity usually shows up in who is receiving you, not just where the camera points.",
+        "The clearest signal is host specificity: a named deck, suite, or balcony beats any anonymous Monaco backdrop."
+      ]
     },
     {
       "id": "royal-ascot",
@@ -860,9 +910,14 @@
       "briefing_release_date": "2026-03-18T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T11:30:00Z",
+      "last_updated_at": "2026-04-12T13:15:00Z",
       "preview_summary": "Five days of racing under royal patronage, Royal Ascot remains one of the few public occasions in Britain where dress discipline still has real consequence.",
-      "premium_briefing": "Ascot is less forgiving than it looks. A hemline, hat, or lapel that slips outside enclosure rules, or a guest who misses the Procession because lunch overran, marks itself immediately."
+      "premium_briefing": "Ascot is less forgiving than it looks. A hemline, hat, or lapel that slips outside enclosure rules, or a guest who misses the Procession because lunch overran, marks itself immediately.",
+      "seen_online": [
+        "The feed over-indexes on hats and carriages, but the sharper social clue is whether someone is calmly posted from the Royal Enclosure rather than performing outside it.",
+        "Generic attendance looks like race-day dressing; real standing appears through enclosure context, hosted tables, and unforced proximity to the Procession.",
+        "Online restraint reads well here: less costume energy, more confidence about exactly where one belongs."
+      ]
     },
     {
       "id": "munich-opera-festival",
@@ -908,9 +963,14 @@
       "briefing_release_date": "2026-03-20T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T11:30:00Z",
+      "last_updated_at": "2026-04-12T13:15:00Z",
       "preview_summary": "Munich's opera festival offers weeks of serious cultural programming with a social calendar built around performances, receptions, and long-established patron habits.",
-      "premium_briefing": "Munich rewards season-long consistency. The guests who belong look correct on opening night, equally correct three weeks later, and never behave as if the festival exists only for gala photographs."
+      "premium_briefing": "Munich rewards season-long consistency. The guests who belong look correct on opening night, equally correct three weeks later, and never behave as if the festival exists only for gala photographs.",
+      "seen_online": [
+        "Public imagery tends to favor opening-night foyers and formal arrivals, but the better signal is consistent presence across the season rather than one gala appearance.",
+        "Generic attendance looks like a beautiful house and one good evening; genuine belonging appears in recurring patron, reception, or host context.",
+        "The most credible online clue is season-long continuity rather than maximal glamour on a single date."
+      ]
     },
     {
       "id": "wimbledon",
@@ -956,9 +1016,14 @@
       "briefing_release_date": "2026-03-31T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T11:30:00Z",
+      "last_updated_at": "2026-04-12T13:15:00Z",
       "preview_summary": "Wimbledon remains the most mannered Grand Slam, where queues, debentures, and private hosting all coexist under a distinctly English standard of composure.",
-      "premium_briefing": "Wimbledon is a public championship with private-club reflexes: debenture holders, member guests, and hospitality patrons move on slightly different tracks, and nothing looks more off than forcing glamour into a room built on understatement."
+      "premium_briefing": "Wimbledon is a public championship with private-club reflexes: debenture holders, member guests, and hospitality patrons move on slightly different tracks, and nothing looks more off than forcing glamour into a room built on understatement.",
+      "seen_online": [
+        "The feed loves strawberries, whites, and Centre Court, while actual standing is often signaled by debenture, hospitality, or member context rather than a generic grounds photograph.",
+        "Generic attendance can still look polished; the subtler distinction is whether the post shows queue culture, hospitality rhythm, or true club access.",
+        "The strongest online marker is understatement: those who really have a seat rarely need to oversell the day."
+      ]
     },
     {
       "id": "henley-royal-regatta",
@@ -1004,9 +1069,14 @@
       "briefing_release_date": "2026-04-01T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T11:30:00Z",
+      "last_updated_at": "2026-04-12T13:15:00Z",
       "preview_summary": "Henley blends competitive rowing with one of the most recognisable codes of the English summer, where the riverbank doubles as clubland in daylight.",
-      "premium_briefing": "Henley looks relaxed only to people who miss the codes. The real test is whether you understand enclosure rules, riverbank pacing, and the quiet hierarchy between rowing families, hosts, and summer spectators."
+      "premium_briefing": "Henley looks relaxed only to people who miss the codes. The real test is whether you understand enclosure rules, riverbank pacing, and the quiet hierarchy between rowing families, hosts, and summer spectators.",
+      "seen_online": [
+        "Social coverage leans on riverbank outfits and hats, but the more useful clue is which enclosure, host table, or launch arrangement quietly appears in the background.",
+        "Generic attendance looks like a summer crowd by the water; genuine access is legible through club context and how naturally a guest moves through luncheon hours.",
+        "The online tone that reads best is easy and enclosure-aware rather than festival-like."
+      ]
     },
     {
       "id": "bayreuth-festival",
@@ -1052,9 +1122,14 @@
       "briefing_release_date": "2026-04-25T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T11:30:00Z",
+      "last_updated_at": "2026-04-12T13:15:00Z",
       "preview_summary": "Bayreuth is pilgrimage as much as festival. Guests arrive for Wagner, but the code of conduct is really about reverence for the institution and the room around it.",
-      "premium_briefing": "Bayreuth rewards cultural seriousness and preparation. The guests who look most at ease are usually the ones who have allowed for the hill, the length of the work, and the fact that conversation here assumes genuine interest rather than social filler."
+      "premium_briefing": "Bayreuth rewards cultural seriousness and preparation. The guests who look most at ease are usually the ones who have allowed for the hill, the length of the work, and the fact that conversation here assumes genuine interest rather than social filler.",
+      "seen_online": [
+        "Compared with louder circuits, the online image is restrained: the Festspielhaus, programme notes, and interval architecture matter more than celebrity theatrics.",
+        "Generic attendance looks like an elegant cultural evening; real seriousness tends to appear in posts that foreground the work, the house, or the annual ritual itself.",
+        "A quiet feed can be the stronger signal here; excessive self-display often reads culturally thin."
+      ]
     },
     {
       "id": "monaco-yacht-show",
@@ -1100,9 +1175,14 @@
       "briefing_release_date": "2026-06-25T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T11:30:00Z",
+      "last_updated_at": "2026-04-12T13:15:00Z",
       "preview_summary": "The Monaco Yacht Show is a sales floor disguised as Riviera theatre. Access, punctuality, and restraint matter more than any attempt to perform wealth.",
-      "premium_briefing": "The show looks theatrical, but the useful currency is trust. Guests who respect crew, timing, and onboard etiquette are remembered as principals; guests who treat every deck like a photo set are remembered at all, which is worse."
+      "premium_briefing": "The show looks theatrical, but the useful currency is trust. Guests who respect crew, timing, and onboard etiquette are remembered as principals; guests who treat every deck like a photo set are remembered at all, which is worse.",
+      "seen_online": [
+        "The feed favors stern shots, sunset decks, and marina glamour, but real access is more clearly signaled by onboard meetings, named yacht appointments, and broker-hosted context.",
+        "Generic attendance can borrow the harbour backdrop; genuine proximity usually shows up inside the sales choreography, not outside it.",
+        "The strongest online tell is purpose: a guest who is clearly being received aboard reads differently from one collecting dockside scenery."
+      ]
     },
     {
       "id": "singapore-grand-prix",
@@ -1148,9 +1228,14 @@
       "briefing_release_date": "2026-07-11T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T11:30:00Z",
+      "last_updated_at": "2026-04-12T13:15:00Z",
       "preview_summary": "Singapore's night race is one of the cleanest combinations of serious hospitality and city-state precision on the Formula 1 calendar.",
-      "premium_briefing": "Singapore rewards clean logistics. The guest who arrives dry, on time, and correctly credentialed into the right suite looks far more impressive than the one wearing the better jacket."
+      "premium_briefing": "Singapore rewards clean logistics. The guest who arrives dry, on time, and correctly credentialed into the right suite looks far more impressive than the one wearing the better jacket.",
+      "seen_online": [
+        "Public imagery leans on neon skyline, paddock glamour, and night-race atmosphere, while stronger access is usually revealed by correct suite, zone, or host context.",
+        "Generic attendance looks cinematic from Marina Bay; genuine proximity appears through where a guest is moving before and after the race window.",
+        "Online polish matters here: a calm, well-routed night says more than a dozen humidity-blurred snapshots."
+      ]
     },
     {
       "id": "pad-london",
@@ -1196,9 +1281,14 @@
       "briefing_release_date": "2026-07-15T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T11:30:00Z",
+      "last_updated_at": "2026-04-12T13:15:00Z",
       "preview_summary": "PAD brings design, decorative arts, and collector conversation into a setting that rewards taste, patience, and well-judged daytime polish.",
-      "premium_briefing": "PAD is less hectic than Frieze and therefore less forgiving of sloppy manners. The strongest guests look carefully, speak economically, and understand that design buying often begins with trust rather than immediate enthusiasm."
+      "premium_briefing": "PAD is less hectic than Frieze and therefore less forgiving of sloppy manners. The strongest guests look carefully, speak economically, and understand that design buying often begins with trust rather than immediate enthusiasm.",
+      "seen_online": [
+        "The feed highlights standout pieces and elegant booth interiors, but the better social signal is preview-hour presence or a dealer conversation rather than using the fair as a backdrop.",
+        "Generic attendance looks like tasteful browsing; genuine collecting energy appears through access timing, adviser context, and what is being looked at closely.",
+        "The strongest online cue is precision: fewer frames, better pieces, more obvious purpose."
+      ]
     },
     {
       "id": "frieze-london-and-frieze-masters",
@@ -1244,9 +1334,14 @@
       "briefing_release_date": "2026-07-16T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T11:30:00Z",
+      "last_updated_at": "2026-04-12T13:15:00Z",
       "preview_summary": "Frieze week turns London into a dense circuit of fairs, dinners, previews, and private viewings, with Regent's Park as the obvious centre of gravity.",
-      "premium_briefing": "Frieze week is won by routing, not posturing. The guests who do it well know which stands require an early pass, which dinners matter more than the fair floor, and when to stop talking so a dealer can close a sale."
+      "premium_briefing": "Frieze week is won by routing, not posturing. The guests who do it well know which stands require an early pass, which dinners matter more than the fair floor, and when to stop talking so a dealer can close a sale.",
+      "seen_online": [
+        "The feed compresses both fairs into one stylish blur, while real access is more legible through early previews, off-site dinners, and who seems to have a route rather than a wander.",
+        "Generic attendance looks like tent selfies and crowded aisles; stronger standing appears in calm dealer moments and after-hours cultural hosting.",
+        "A useful clue online is selectivity: those who know what matters rarely post everything."
+      ]
     },
     {
       "id": "abu-dhabi-grand-prix",
@@ -1292,9 +1387,14 @@
       "briefing_release_date": "2026-09-05T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T11:30:00Z",
+      "last_updated_at": "2026-04-12T13:15:00Z",
       "preview_summary": "Abu Dhabi closes the Formula 1 year with a hospitality calendar that stretches well beyond the track and rewards guests who can move through a busy weekend without looking hurried.",
-      "premium_briefing": "As the season finale, Abu Dhabi gathers more expectation than most grands prix. The best guests move smoothly between circuit hospitality and marina evenings without ever making the staffing, transport, or invitation choreography look difficult."
+      "premium_briefing": "As the season finale, Abu Dhabi gathers more expectation than most grands prix. The best guests move smoothly between circuit hospitality and marina evenings without ever making the staffing, transport, or invitation choreography look difficult.",
+      "seen_online": [
+        "Online emphasis goes to fireworks, marina after-parties, and race-week glamour, but stronger access is revealed by paddock, suite, or hosted-transfer context.",
+        "Generic attendance can look luxurious from the waterfront; genuine proximity usually appears through how seamlessly a guest moves between circuit and evening hospitality.",
+        "The clearest online marker is hosted precision rather than sheer volume of celebration."
+      ]
     }
   ],
   "dining_topics": [
