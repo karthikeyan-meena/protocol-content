@@ -1,8 +1,8 @@
 {
   "version": 1,
   "schema_version": 1,
-  "content_version": "2026-04-12.2",
-  "updated_at": "2026-04-12T09:30:04Z",
+  "content_version": "2026-04-12.3",
+  "updated_at": "2026-04-12T11:30:00Z",
   "minimum_app_version": null,
   "events": [
     {
@@ -352,21 +352,21 @@
       "website_url": "https://www.cameramoda.it/en/milano-moda-uomo/calendar/",
       "summary": "The January menswear shows open the European fashion calendar with a rhythm built around appointments, presentations, and a great deal of silent judgment in hotel lobbies.",
       "why_it_matters": "Milan rewards those who understand that being fashionably dressed and being correctly dressed for the room are not the same achievement.",
-      "the_room": "Editors, buyers, luxury clients, and brand insiders moving between show venues, private fittings, and discreet dinners.",
+      "the_room": "Editors, buyers, VIC clients, show producers, PR teams, and brand hosts moving between catwalks, salons, and hotel-lobby triage.",
       "dress_notes": [
-        "Treat daytime as business dressing with fashion literacy, not costume.",
-        "Outerwear matters because arrivals are observed before introductions happen.",
-        "Comfortable shoes are practical; tired shoes are noticed."
+        "Treat daytime as business dressing sharpened by fashion literacy, not costume.",
+        "Outerwear, bag, and shoes are read before anyone checks the invitation list.",
+        "Choose pieces that can move from a show bench to a private fitting without looking overworked."
       ],
       "what_to_get_right": [
-        "Arrive early enough for security and seating without making an entrance of it.",
-        "Respect seating plans and standing zones; they are social maps as much as logistics.",
-        "Keep post-show chatter brief unless the conversation is clearly invited."
+        "Know whether you are seated, standing, or arriving only for a showroom appointment.",
+        "Take your assigned place quickly; hesitation at the bench is instantly visible.",
+        "Post-show congratulations should be brief unless a house team clearly keeps you back."
       ],
       "before_you_go": [
-        "Confirm addresses and travel time between venues before the day begins.",
-        "Keep invitations and QR credentials to hand.",
-        "Book dinners early; the city runs on reservations during fashion week."
+        "Group venues by district; traffic between shows is part of the day, not an exception.",
+        "Keep QR codes, guest names, and showroom confirmations in one place.",
+        "Book lunches and dinners early; the strongest rooms are effectively full before the week starts."
       ],
       "related_event_ids": [],
       "featured": false,
@@ -376,9 +376,9 @@
       "briefing_release_date": "2025-10-18T09:00:00Z",
       "season_year": 2026,
       "status": "completed",
-      "last_updated_at": "2026-04-12T09:00:00Z",
+      "last_updated_at": "2026-04-12T11:30:00Z",
       "preview_summary": "The January menswear shows open the European fashion calendar with a rhythm built around appointments, presentations, and a great deal of silent judgment in hotel lobbies.",
-      "premium_briefing": "Milan rewards those who understand that being fashionably dressed and being correctly dressed for the room are not the same achievement."
+      "premium_briefing": "The shows matter, but the real currency sits in showroom appointments, private client lunches, and whether a house bothered to place you on a list rather than in a holding line."
     },
     {
       "id": "world-economic-forum-annual-meeting",
@@ -400,21 +400,21 @@
       "website_url": "https://www.weforum.org/meetings/world-economic-forum-annual-meeting-2026/",
       "summary": "Davos is less a conference than a temporary court of power, where scheduling discipline, introductions, and discretion matter as much as any panel title.",
       "why_it_matters": "The etiquette of Davos is about time, hierarchy, and confidentiality. Those who overplay access quickly reveal that they do not have it.",
-      "the_room": "Global leaders, corporate principals, policy staff, and a parallel circuit of dinners, breakfasts, and chalet conversations.",
+      "the_room": "Heads of state, CEOs, ministers, policy staff, foundation leaders, editors, and a shadow calendar of chalet breakfasts and closed-door dinners.",
       "dress_notes": [
-        "Dress for winter movement between venues, not for a chauffeured fantasy.",
-        "Technical outerwear is acceptable if it remains clean, dark, and deliberate.",
-        "Badges are practical objects here; keep them visible without fuss."
+        "Dress for snow, security queues, and walking between venues rather than a chauffeured fantasy.",
+        "Technical outerwear is acceptable if it stays dark, clean, and disciplined.",
+        "Wear badges exactly where required, then remove them once you are off duty and off site."
       ],
       "what_to_get_right": [
-        "Be punctual. A five-minute delay can cost an entire chain of introductions.",
-        "Do not treat private houses as networking free-for-alls.",
-        "Nothing about an off-record conversation is yours to repeat."
+        "Treat security windows and session starts as hard deadlines, not advisory ones.",
+        "Private houses are not networking free-for-alls; enter on a host name, not optimism.",
+        "Nothing from an off-record conversation becomes a dinner anecdote later."
       ],
       "before_you_go": [
-        "Build each day around geography as well as calendar time.",
-        "Confirm security requirements for every venue.",
-        "Carry business cards, but offer them sparingly."
+        "Build each day around geography as well as calendar time; Davos punishes backtracking.",
+        "Confirm security requirements and credential rules for every venue on your schedule.",
+        "Carry boots, power, and business cards, but use all three without display."
       ],
       "related_event_ids": [],
       "featured": false,
@@ -424,9 +424,9 @@
       "briefing_release_date": "2025-10-21T09:00:00Z",
       "season_year": 2026,
       "status": "completed",
-      "last_updated_at": "2026-04-12T09:00:00Z",
+      "last_updated_at": "2026-04-12T11:30:00Z",
       "preview_summary": "Davos is less a conference than a temporary court of power, where scheduling discipline, introductions, and discretion matter as much as any panel title.",
-      "premium_briefing": "The etiquette of Davos is about time, hierarchy, and confidentiality. Those who overplay access quickly reveal that they do not have it."
+      "premium_briefing": "Badges decide more than charm. The decisive move is reaching the right security zone on time, then understanding which conversation is public, on background, or simply not yours to mention later."
     },
     {
       "id": "snow-polo-world-cup-st-moritz",
@@ -448,21 +448,21 @@
       "website_url": "https://www.snowpolo-stmoritz.com/",
       "summary": "Played on the frozen lake, Snow Polo is one of the clearest examples of Alpine society at full gloss: sport in the foreground, hospitality and observation just behind it.",
       "why_it_matters": "It is a cold-weather occasion that still rewards polish. Looking prepared rather than overdressed is the mark to hit.",
-      "the_room": "St. Moritz families, polo sponsors, luxury clients, and guests moving between grandstand views and heated hospitality.",
+      "the_room": "St. Moritz regulars, sponsor hosts, private-bank clients, polo patrons, and weekend guests moving between lake edge, tented hospitality, and late lunch tables.",
       "dress_notes": [
-        "Choose winter pieces that remain elegant once coats come off indoors.",
-        "Footwear must survive ice; suffering for style is not impressive here.",
-        "Daytime glamour should still permit movement and warmth."
+        "Choose luxe alpine layers that still look composed once you step into a heated tent.",
+        "Footwear needs grip on ice and enough polish for sponsor hospitality.",
+        "Sun glare on the lake is real; sunglasses should feel refined rather than sporty."
       ],
       "what_to_get_right": [
-        "Arrive early enough to settle before play begins.",
-        "Respect sightlines in hospitality areas and around the lake edge.",
-        "Treat players and patrons alike with restraint rather than fan energy."
+        "Arrive before the first chukka or you spend the best social window catching up to the room.",
+        "Respect seated sightlines in hospitality; standing at the rail for too long is noticed.",
+        "Hosts and sponsors matter here; thank the table before drifting."
       ],
       "before_you_go": [
-        "Confirm whether your ticket includes hospitality or only seating.",
-        "Watch the weather and dress in layers that still look deliberate.",
-        "Reserve restaurants early; the town is full during the polo weekend."
+        "Confirm whether you have hospitality, grandstand, or sponsor access; they shape the day differently.",
+        "Reserve lunch and dinner early; the town books around polo weekend.",
+        "Check weather and lake conditions the night before, then dress one degree warmer than seems stylish."
       ],
       "related_event_ids": [],
       "featured": false,
@@ -472,9 +472,9 @@
       "briefing_release_date": "2025-10-25T09:00:00Z",
       "season_year": 2026,
       "status": "completed",
-      "last_updated_at": "2026-04-12T09:00:00Z",
+      "last_updated_at": "2026-04-12T11:30:00Z",
       "preview_summary": "Played on the frozen lake, Snow Polo is one of the clearest examples of Alpine society at full gloss: sport in the foreground, hospitality and observation just behind it.",
-      "premium_briefing": "It is a cold-weather occasion that still rewards polish. Looking prepared rather than overdressed is the mark to hit."
+      "premium_briefing": "The strongest positions are not necessarily at the rail but at the right lunch table. Snow Polo rewards guests who can move from ice to hospitality without looking either underprepared or theatrically alpine."
     },
     {
       "id": "paris-haute-couture-week",
@@ -496,21 +496,21 @@
       "website_url": "https://www.fhcm.paris/en/haute-couture-week",
       "summary": "Haute Couture Week is Paris at its most ceremonial in fashion terms: fewer rooms, more weight, and a higher premium on ease, judgment, and access.",
       "why_it_matters": "Couture rooms are sensitive to proportion. Loud dressing, loud conversation, and loud ambition all read badly.",
-      "the_room": "Long-standing clients, editors, house teams, and guests who know precisely where they belong in the room.",
+      "the_room": "Maison clients, couture salon teams, editors, stylists, celebrity dressers, and guests who know exactly which door is for show seating and which is for fittings.",
       "dress_notes": [
         "Clothes should look resolved rather than merely expensive.",
-        "Jewellery and accessories work best when they do not compete with the collection.",
-        "Hair, shoes, and coat matter as much as the dress itself."
+        "Jewellery and accessories should never compete with the collection or the salon.",
+        "Hair, shoes, and coat are part of the invitation test long before a greeting."
       ],
       "what_to_get_right": [
-        "Follow the seating plan exactly and take your place without hesitation.",
-        "Phones belong down once the show begins.",
-        "Backstage access is never implied by confidence."
+        "Follow the seating card exactly; couture rooms remember uncertainty.",
+        "Keep phones down once a fitting or show begins; houses notice divided attention.",
+        "Backstage access, atelier visits, and second looks are granted, not improvised."
       ],
       "before_you_go": [
-        "Keep invitations and driver details organised by day.",
-        "Plan for time lost to traffic; Paris runs tight during couture.",
-        "Confirm post-show fittings or salon appointments in writing."
+        "Separate show invitations from salon appointments; they are not interchangeable access.",
+        "Leave margin for Paris traffic and security even on short cross-town hops.",
+        "Confirm fittings, cars, and any post-show return window in writing."
       ],
       "related_event_ids": [],
       "featured": false,
@@ -520,9 +520,9 @@
       "briefing_release_date": "2025-10-28T09:00:00Z",
       "season_year": 2026,
       "status": "completed",
-      "last_updated_at": "2026-04-12T09:00:00Z",
+      "last_updated_at": "2026-04-12T11:30:00Z",
       "preview_summary": "Haute Couture Week is Paris at its most ceremonial in fashion terms: fewer rooms, more weight, and a higher premium on ease, judgment, and access.",
-      "premium_briefing": "Couture rooms are sensitive to proportion. Loud dressing, loud conversation, and loud ambition all read badly."
+      "premium_briefing": "Couture is not about being seen at the door; it is about being expected in the salon. Houses remember who protects intimacy, respects house PR, and understands that the real access point is the private appointment."
     },
     {
       "id": "the-ice-st-moritz",
@@ -544,21 +544,21 @@
       "website_url": "https://theicestmoritz.ch/",
       "summary": "The I.C.E. brings exceptional classic cars onto the frozen lake and turns an automotive concours into one of the season's most photogenic social gatherings.",
       "why_it_matters": "It is a collector event disguised as spectacle. Knowing when to admire and when to step back is part of getting it right.",
-      "the_room": "Collectors, automotive insiders, luxury sponsors, and guests who treat the lake as both display ground and drawing room.",
+      "the_room": "Collectors, owners, marque representatives, concours judges, partner hosts, and St. Moritz regulars who know which conversations are about the cars and which are about each other.",
       "dress_notes": [
-        "Think polished winter daywear rather than racing costume.",
-        "Gloves and outerwear should feel resolved, not improvised.",
-        "Footing matters; the lake is still a lake."
+        "Think elegant winter daywear with enough structure for photographs and enough warmth for the lake.",
+        "Gloves, eyewear, and outerwear should feel considered rather than borrowed for effect.",
+        "Footwear needs grip; slipping on ice is less charming than people pretend."
       ],
       "what_to_get_right": [
-        "Do not crowd cars or owners for photographs.",
-        "Respect barriers, marshals, and display instructions immediately.",
-        "Hospitality areas reward lightness; forced expertise does not."
+        "Do not crowd owners or cars for a closer photograph; patience reads better than enthusiasm.",
+        "Respect marshals and barriers immediately; concours etiquette is part safety, part class marker.",
+        "Ask before touching anything, even when the owner seems relaxed."
       ],
       "before_you_go": [
-        "Check the programme because preview and competition days differ.",
-        "Book lunch and dinner around the event rather than after it.",
-        "Allow extra time for weather and lake access conditions."
+        "Check whether your day includes preview, concours judging, or the public programme.",
+        "Build lunch plans around the schedule rather than assuming you can drift.",
+        "Allow extra time for weather, shuttle routing, and lake access changes."
       ],
       "related_event_ids": [],
       "featured": false,
@@ -568,9 +568,9 @@
       "briefing_release_date": "2025-11-01T09:00:00Z",
       "season_year": 2026,
       "status": "completed",
-      "last_updated_at": "2026-04-12T09:00:00Z",
+      "last_updated_at": "2026-04-12T11:30:00Z",
       "preview_summary": "The I.C.E. brings exceptional classic cars onto the frozen lake and turns an automotive concours into one of the season's most photogenic social gatherings.",
-      "premium_briefing": "It is a collector event disguised as spectacle. Knowing when to admire and when to step back is part of getting it right."
+      "premium_briefing": "The spectacle is public; the collector conversation is not. The I.C.E. rewards guests who understand how to admire rare machinery without behaving as if rarity entitles them to proximity."
     },
     {
       "id": "piarist-debutante-ball",
@@ -592,21 +592,21 @@
       "website_url": "https://piaristballnyc.com/",
       "summary": "A formal New York winter ball with charitable purpose and old-world formality, the Piarist Ball still values manners, introductions, and the choreography of the room.",
       "why_it_matters": "Debutante evenings operate on visible courtesy. Family standing, patronage, and generosity all sit close to the surface.",
-      "the_room": "Committee families, patrons, invited guests, and a room that notices grace before glamour.",
+      "the_room": "Committee families, patrons, clergy-linked supporters, table hosts, and young women whose introductions are being watched as closely as their gowns.",
       "dress_notes": [
         "Treat the evening as formal ceremony first and party second.",
-        "Jewellery and eveningwear should read finished rather than theatrical.",
-        "Men should confirm whether tails are expected within their party."
+        "Jewellery should read finished and family-aware rather than nightclub bright.",
+        "Men should clarify tails versus dark formal evening dress with their specific host."
       ],
       "what_to_get_right": [
-        "Stand promptly for formal entrances and toasts.",
-        "Introductions matter; do not skip over hosts to more useful guests.",
-        "Philanthropic purpose should be acknowledged with sincerity."
+        "Stand promptly for entrances, prayers, toasts, and any formal acknowledgments.",
+        "Meet your table host and neighbouring families before ranging further across the room.",
+        "Remember the charitable purpose; performative indifference to the cause reads badly."
       ],
       "before_you_go": [
-        "Confirm seating and arrival timing with your host or table captain.",
-        "Review the evening programme before you enter the room.",
-        "Bring business cards only if the evening's tone genuinely supports them."
+        "Confirm seating, arrival window, and whether your host expects a receiving-line greeting.",
+        "Review the programme so you do not miss the opening sequence by lingering at cocktails.",
+        "Keep cards discreet; this is still a family and philanthropic room before it is a networking room."
       ],
       "related_event_ids": [],
       "featured": false,
@@ -616,9 +616,9 @@
       "briefing_release_date": "2025-11-02T19:00:00Z",
       "season_year": 2026,
       "status": "completed",
-      "last_updated_at": "2026-04-12T09:00:00Z",
+      "last_updated_at": "2026-04-12T11:30:00Z",
       "preview_summary": "A formal New York winter ball with charitable purpose and old-world formality, the Piarist Ball still values manners, introductions, and the choreography of the room.",
-      "premium_briefing": "Debutante evenings operate on visible courtesy. Family standing, patronage, and generosity all sit close to the surface."
+      "premium_briefing": "Debutante balls reward visible courtesy. The useful guests are the ones who can honour family hierarchy, philanthropic purpose, and ceremonial pacing without looking as though they have come to transact."
     },
     {
       "id": "white-turf-st-moritz",
@@ -640,21 +640,21 @@
       "website_url": "https://www.whiteturf.ch/en/",
       "summary": "White Turf combines racing, hospitality, and St. Moritz spectacle across three Sundays, with the frozen lake acting as both sporting venue and social stage.",
       "why_it_matters": "The occasion rewards those who understand that proper race-day polish still has to survive cold air, snow, and long hours outdoors.",
-      "the_room": "Owners, punters, locals, sponsors, and visitors moving between outdoor viewing and warm hospitality tents.",
+      "the_room": "Owners, punters, sponsors, local regulars, and Sunday guests moving between outdoor rail positions, marquees, and long lunches.",
       "dress_notes": [
-        "Dress for the lake first, the photographs second.",
-        "Tailored winter layers outperform anything delicate or impractical.",
-        "A good coat is part of the look, not an afterthought."
+        "Dress for the lake first and the photograph second.",
+        "Tailored winter layers, gloves, and proper eyewear outperform anything fragile or fussy.",
+        "A serious coat is part of the look; carrying discomfort for style only reads inexperienced."
       ],
       "what_to_get_right": [
-        "Keep pathways clear around stands and hospitality entries.",
-        "Do not assume every invitation grants access to every enclosure.",
-        "A light touch with betting talk usually reads better than performance."
+        "Know which Sunday matters for your hosts; each weekend draws a slightly different crowd.",
+        "Keep pathways clear around stands, betting points, and hospitality entries.",
+        "Betting talk lands best when it is light and informed, not overperformed."
       ],
       "before_you_go": [
-        "Check which Sunday your hosts are attending; the series has rhythm.",
-        "Confirm whether you have hospitality or only grounds access.",
-        "Plan transport early if you are staying outside central St. Moritz."
+        "Confirm whether you have grounds access, hospitality, or a sponsor table.",
+        "Plan transport early if you are staying outside central St. Moritz.",
+        "Expect glare, cold, and long periods outdoors even if lunch is indoors."
       ],
       "related_event_ids": [],
       "featured": false,
@@ -664,9 +664,9 @@
       "briefing_release_date": "2025-11-10T09:00:00Z",
       "season_year": 2026,
       "status": "completed",
-      "last_updated_at": "2026-04-12T09:00:00Z",
+      "last_updated_at": "2026-04-12T11:30:00Z",
       "preview_summary": "White Turf combines racing, hospitality, and St. Moritz spectacle across three Sundays, with the frozen lake acting as both sporting venue and social stage.",
-      "premium_briefing": "The occasion rewards those who understand that proper race-day polish still has to survive cold air, snow, and long hours outdoors."
+      "premium_briefing": "White Turf is a sporting day that quietly sorts the practiced from the theatrical. The guests who get it right are warm enough, punctual enough, and socially light enough to stay elegant through three hours on a frozen lake."
     },
     {
       "id": "vienna-opera-ball",
@@ -688,21 +688,21 @@
       "website_url": "https://www.opernball.at/en/the-ball/2026/",
       "summary": "The Opera Ball remains one of the rare evenings in Europe where white tie is not nostalgic styling but live protocol, observed closely and enforced without apology.",
       "why_it_matters": "It is a room in which correctness still outranks flair. Guests who understand the sequence of the evening move differently from those who merely bought a ticket.",
-      "the_room": "Austrian society, diplomatic figures, international guests, and a formal hierarchy that is legible long before midnight.",
+      "the_room": "Austrian society, diplomats, industrial families, international guests, and staff who enforce protocol with more precision than glamour photography suggests.",
       "dress_notes": [
-        "Men need proper white tie, not a dinner jacket approximation.",
-        "Women should think floor-length elegance and composure rather than fashion theatre.",
-        "Gloves remain traditional and still read beautifully here."
+        "Men need proper white tie, not a dinner-jacket approximation.",
+        "Women should think floor-length elegance, gloves, and composure rather than fashion theatre.",
+        "Cloakroom logistics matter, so choose formalwear that still travels well through checkpoints and staircases."
       ],
       "what_to_get_right": [
-        "Be in place before the opening ceremony begins.",
-        "Keep movement to a minimum during formal sequences.",
-        "Treat the ball as a long evening and pace your energy accordingly."
+        "Be in place before the opening ceremony; late movement is conspicuous.",
+        "Keep movement minimal during formal sequences and respect box or loge boundaries.",
+        "Treat photography and phone use as peripheral privileges, not part of the evening."
       ],
       "before_you_go": [
-        "Confirm ticket type, entrance, and any box arrangements well in advance.",
-        "Arrange transport for late departure; the evening finishes slowly.",
-        "Check white tie details before travel rather than at the hotel mirror."
+        "Confirm ticket type, entrance, cloakroom, and any box arrangements well in advance.",
+        "Arrange late transport before the evening begins; departures are slow and formal.",
+        "Check every white-tie detail before leaving the hotel, not in the opera stairwell."
       ],
       "related_event_ids": [
         "white-tie"
@@ -714,9 +714,9 @@
       "briefing_release_date": "2025-11-14T18:00:00Z",
       "season_year": 2026,
       "status": "completed",
-      "last_updated_at": "2026-04-12T09:00:00Z",
+      "last_updated_at": "2026-04-12T11:30:00Z",
       "preview_summary": "The Opera Ball remains one of the rare evenings in Europe where white tie is not nostalgic styling but live protocol, observed closely and enforced without apology.",
-      "premium_briefing": "It is a room in which correctness still outranks flair. Guests who understand the sequence of the evening move differently from those who merely bought a ticket."
+      "premium_briefing": "The visible glamour hides a highly regulated evening: dress is inspected, movement during the opening is conspicuous, and the guests who look most at ease are usually the ones who prepared for the protocol rather than the photographs."
     },
     {
       "id": "cannes-film-festival",
@@ -738,21 +738,21 @@
       "website_url": "https://www.festival-cannes.com/",
       "summary": "Cannes is a festival, a market, and a social test conducted under Mediterranean light. Proper conduct is mostly about timing, dress discipline, and reading which invitation actually matters.",
       "why_it_matters": "The red carpet is the visible part. The real calendar is built from screenings, lunches, yacht appointments, and dinners that run on hierarchy rather than noise.",
-      "the_room": "Talent, executives, journalists, patrons, and luxury-brand guests split between official venues and a second city of private hospitality.",
+      "the_room": "Talent, studio executives, publicists, patrons, sales agents, and luxury-brand guests split between the Palais, the market, beach clubs, yachts, and late dinners.",
       "dress_notes": [
-        "Evening dress should be formal enough for the carpet without becoming costume.",
-        "Daytime Riviera dressing works best when clean, calm, and heat-aware.",
-        "Shoes matter because much of Cannes still involves walking."
+        "Evening dress should clear premiere formality without tipping into costume.",
+        "Daytime Riviera dressing works best when clean, heat-aware, and car-to-meeting ready.",
+        "Choose shoes for stairs, carpets, and Croisette walking; Cannes punishes ornamental discomfort."
       ],
       "what_to_get_right": [
-        "Understand the distinction between a screening invite, a party invite, and actual access.",
-        "Do not hold doorways, staircases, or arrival lines for photographs.",
-        "Keep networking conversational; everyone else is also being watched."
+        "Know the difference between a festival badge, a screening invitation, a market meeting, and a party list.",
+        "Do not clog arrival lines, staircases, or yacht gangways for photographs.",
+        "Publicists and assistants run the real traffic; treating them well is practical, not merely polite."
       ],
       "before_you_go": [
-        "Map the Croisette and travel times between meetings before arriving.",
-        "Keep credentials, tickets, and invitations organised by day part.",
-        "Book dinners early; last-minute Cannes is mostly wishful thinking."
+        "Map the Croisette, the Palais, and your tender or driver timings before day one.",
+        "Sort credentials and invitations by morning, afternoon, and evening; the city runs on overlapping calendars.",
+        "Book dinners early and leave margin between events; Cannes traffic and security swallow optimism."
       ],
       "related_event_ids": [],
       "featured": true,
@@ -762,9 +762,9 @@
       "briefing_release_date": "2026-02-11T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T09:00:00Z",
+      "last_updated_at": "2026-04-12T11:30:00Z",
       "preview_summary": "Cannes is a festival, a market, and a social test conducted under Mediterranean light. Proper conduct is mostly about timing, dress discipline, and reading which invitation actually matters.",
-      "premium_briefing": "The red carpet is the visible part. The real calendar is built from screenings, lunches, yacht appointments, and dinners that run on hierarchy rather than noise."
+      "premium_briefing": "Cannes rewards guests who separate access from atmosphere. A red carpet appearance may be the least strategic part of the day compared with a breakfast meeting, market screening, or correctly placed dinner."
     },
     {
       "id": "monaco-grand-prix",
@@ -786,21 +786,21 @@
       "website_url": "https://acm.mc/en/epreuves/formula-1-grand-prix-de-monaco/",
       "summary": "Monaco Grand Prix weekend is as much about terraces, tenders, and invitations as it is about racing. The calendar rewards precision more than exuberance.",
       "why_it_matters": "Monaco compresses hierarchy into a small geography. Which balcony, yacht, or dinner you are on says more than how loudly you arrive.",
-      "the_room": "Team partners, yacht hosts, financiers, luxury clients, and guests navigating a weekend built around visibility and access.",
+      "the_room": "Team principals, yacht hosts, brokers, sponsor guests, luxury clients, and Monaco regulars circulating between terraces, boats, pits, and dinners.",
       "dress_notes": [
-        "Daywear should feel sharp in heat and survive movement between venues.",
-        "Evening looks need polish without overt theatre.",
-        "Footwear should handle docks, tenders, and stone streets."
+        "Daywear should stay sharp in heat while surviving docks, tenders, and steps.",
+        "Evening looks need polish without overt theatre; Monaco sees too much of that already.",
+        "Footwear must work aboard and ashore."
       ],
       "what_to_get_right": [
-        "Treat yacht invitations as exact, not transferable.",
-        "Be concise when meeting hosts; everyone is overscheduled.",
-        "Never make crew invisible. Good manners aboard are remembered."
+        "Treat yacht invitations as exact, personal, and non-transferable.",
+        "Arrive when your host asks; tender slots and security timings are tighter than they look.",
+        "Thank crew and household staff as naturally as you greet the owner or principal."
       ],
       "before_you_go": [
-        "Confirm every venue with a precise host name and arrival route.",
-        "Plan tender timing if the harbour is part of your schedule.",
-        "Book tables and cars well ahead; Monaco is capacity-constrained that week."
+        "Confirm each venue with a host name, berth or terrace details, and the right arrival route.",
+        "Plan around tender timings, road closures, and tunnel traffic rather than against them.",
+        "Book tables, cars, and salon appointments well ahead; the principality runs out of ease that week."
       ],
       "related_event_ids": [],
       "featured": false,
@@ -810,9 +810,9 @@
       "briefing_release_date": "2026-03-06T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T09:00:00Z",
+      "last_updated_at": "2026-04-12T11:30:00Z",
       "preview_summary": "Monaco Grand Prix weekend is as much about terraces, tenders, and invitations as it is about racing. The calendar rewards precision more than exuberance.",
-      "premium_briefing": "Monaco compresses hierarchy into a small geography. Which balcony, yacht, or dinner you are on says more than how loudly you arrive."
+      "premium_briefing": "Monaco compresses hierarchy into a few streets and a harbour. The useful question is rarely whether you are in Monaco, but whose deck, whose terrace, and whose lunch you are actually on."
     },
     {
       "id": "royal-ascot",
@@ -834,21 +834,21 @@
       "website_url": "https://www.ascot.com/royal-ascot-2026",
       "summary": "Five days of racing under royal patronage, Royal Ascot remains one of the few public occasions in Britain where dress discipline still has real consequence.",
       "why_it_matters": "The distinction between being admitted and appearing correct is especially sharp at Ascot. Enclosure etiquette still functions as a social language.",
-      "the_room": "Society regulars, racing insiders, and international guests divided by enclosure, sponsorship, and generations of familiarity.",
+      "the_room": "Enclosure regulars, sponsors, racing professionals, hospitality hosts, and international guests navigating one of the clearest dress and access hierarchies in Britain.",
       "dress_notes": [
-        "Read your enclosure rules rather than relying on received wisdom.",
-        "A hat is not optional where the code says hat.",
-        "Morning dress should be correct, not theatrical."
+        "Read your enclosure rules rather than trusting hearsay or last year's photographs.",
+        "A hat is not optional where the code says hat, and morning dress should be correct rather than playful.",
+        "Choose footwear that can last a long day on racecourse ground without looking pragmatic in the wrong way."
       ],
       "what_to_get_right": [
-        "Be in place before the Royal Procession each afternoon.",
-        "Keep your conduct calibrated to the enclosure you are in.",
-        "Do not treat the Royal Enclosure as a costume party with champagne."
+        "Be in place before the Royal Procession; social forgiveness narrows after it begins.",
+        "Respect enclosure boundaries and the tone set by your host table.",
+        "Treat champagne and betting as part of the day, not its entire personality."
       ],
       "before_you_go": [
-        "Confirm membership or badge arrangements early.",
-        "Arrange transport and accommodation well in advance.",
-        "Check weather, but do not use weather as an excuse to ignore the code."
+        "Confirm membership, guest badges, and dining plans early.",
+        "Build transport around both arrival and departure; Ascot tests patience on both ends.",
+        "Check weather, then adapt within the code rather than trying to negotiate around it."
       ],
       "related_event_ids": [
         "morning-dress"
@@ -860,9 +860,9 @@
       "briefing_release_date": "2026-03-18T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T09:00:00Z",
+      "last_updated_at": "2026-04-12T11:30:00Z",
       "preview_summary": "Five days of racing under royal patronage, Royal Ascot remains one of the few public occasions in Britain where dress discipline still has real consequence.",
-      "premium_briefing": "The distinction between being admitted and appearing correct is especially sharp at Ascot. Enclosure etiquette still functions as a social language."
+      "premium_briefing": "Ascot is less forgiving than it looks. A hemline, hat, or lapel that slips outside enclosure rules, or a guest who misses the Procession because lunch overran, marks itself immediately."
     },
     {
       "id": "munich-opera-festival",
@@ -884,21 +884,21 @@
       "website_url": "https://www.staatsoper.de/en/munich-opera-festival",
       "summary": "Munich's opera festival offers weeks of serious cultural programming with a social calendar built around performances, receptions, and long-established patron habits.",
       "why_it_matters": "Unlike a single gala, the festival rewards consistency. One can appear correctly over a season or one can look as though one dressed only for opening night.",
-      "the_room": "Patrons, collectors, local society, and visitors who still treat summer opera as part of their annual route through Europe.",
+      "the_room": "Opera patrons, Munich society, visiting cultural travellers, donor circles, and guests moving between performances, receptions, and summer terraces.",
       "dress_notes": [
         "Evening elegance should feel considered but not stiff.",
-        "Save black tie for invitations that actually require it.",
-        "A beautiful coat or wrap still matters for late exits."
+        "Save black tie for invitations that explicitly call for it; most festival evenings reward polish over ceremony.",
+        "A coat or wrap still matters for late departures and post-performance receptions."
       ],
       "what_to_get_right": [
-        "Arrive early enough to settle before the house lights go down.",
-        "Use intervals for conversation, not for noisy repositioning.",
-        "If hosted, follow your host's lead on post-performance movement."
+        "Understand whether you are attending an opening, a regular festival performance, or a donor evening; the room shifts with the date.",
+        "Use intervals for conversation, not noisy circulation or last-minute seat trading.",
+        "If hosted, follow your host's lead on where to go after curtain call."
       ],
       "before_you_go": [
-        "Check the exact venue; the festival uses more than one stage.",
-        "Book restaurants and transport around curtain times.",
-        "Read the running time before accepting a late dinner."
+        "Check the exact venue and running time; the festival uses more than one stage and some long evenings.",
+        "Book supper and transport around curtain times rather than hoping for flexibility.",
+        "Keep tickets and any reception details together; the festival calendar overlaps."
       ],
       "related_event_ids": [],
       "featured": false,
@@ -908,9 +908,9 @@
       "briefing_release_date": "2026-03-20T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T09:00:00Z",
+      "last_updated_at": "2026-04-12T11:30:00Z",
       "preview_summary": "Munich's opera festival offers weeks of serious cultural programming with a social calendar built around performances, receptions, and long-established patron habits.",
-      "premium_briefing": "Unlike a single gala, the festival rewards consistency. One can appear correctly over a season or one can look as though one dressed only for opening night."
+      "premium_briefing": "Munich rewards season-long consistency. The guests who belong look correct on opening night, equally correct three weeks later, and never behave as if the festival exists only for gala photographs."
     },
     {
       "id": "wimbledon",
@@ -932,21 +932,21 @@
       "website_url": "https://www.wimbledon.com/",
       "summary": "Wimbledon remains the most mannered Grand Slam, where queues, debentures, and private hosting all coexist under a distinctly English standard of composure.",
       "why_it_matters": "It is a public event with private-club instincts. Ease, moderation, and correct summer dressing carry more weight than overt luxury.",
-      "the_room": "Debenture holders, hospitality guests, tennis devotees, and a broad international crowd that still reads local cues.",
+      "the_room": "Members, debenture holders, hospitality guests, tennis purists, and international visitors sharing a public championship that still runs on club instincts.",
       "dress_notes": [
-        "Summer tailoring and dresses should feel neat, not beach-adjacent.",
-        "A blazer or light layer is often useful even on warm days.",
-        "Keep bags compact and practical for security and seating."
+        "Summer tailoring and dresses should feel neat, breathable, and never beach-adjacent.",
+        "A blazer, cardigan, or light coat is often useful even on warm days when the weather turns.",
+        "Keep bags compact and security-friendly."
       ],
       "what_to_get_right": [
-        "Respect the pace and patience of queues if you are using them.",
-        "Keep movement and conversation low during play.",
-        "Club areas are social spaces, but not loud ones."
+        "Know whether you are queueing, on debentures, in hospitality, or hosted privately; the rhythms differ.",
+        "Keep movement and conversation low during play, even in social areas near show courts.",
+        "Do not mistake a relaxed English tone for informality; staff and regulars notice standards."
       ],
       "before_you_go": [
-        "Know your ticket type and gate before arrival.",
-        "Plan your day around transport and security checks.",
-        "If hosted, confirm whether lunch, tea, or private hospitality is included."
+        "Confirm gate, ticket type, and any lunch, tea, or member arrangements before arrival.",
+        "Plan for security, walking time, and possible rain delays.",
+        "Book post-tennis meals early if you intend to stay in town; the surrounding schedule fills quickly."
       ],
       "related_event_ids": [],
       "featured": false,
@@ -956,9 +956,9 @@
       "briefing_release_date": "2026-03-31T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T09:00:00Z",
+      "last_updated_at": "2026-04-12T11:30:00Z",
       "preview_summary": "Wimbledon remains the most mannered Grand Slam, where queues, debentures, and private hosting all coexist under a distinctly English standard of composure.",
-      "premium_briefing": "It is a public event with private-club instincts. Ease, moderation, and correct summer dressing carry more weight than overt luxury."
+      "premium_briefing": "Wimbledon is a public championship with private-club reflexes: debenture holders, member guests, and hospitality patrons move on slightly different tracks, and nothing looks more off than forcing glamour into a room built on understatement."
     },
     {
       "id": "henley-royal-regatta",
@@ -980,21 +980,21 @@
       "website_url": "https://www.hrr.co.uk/",
       "summary": "Henley blends competitive rowing with one of the most recognisable codes of the English summer, where the riverbank doubles as clubland in daylight.",
       "why_it_matters": "Henley is not about dramatic display. It is about understanding enclosure codes, river etiquette, and the art of appearing entirely at ease in heat and crowds.",
-      "the_room": "Stewards, rowing alumni, family groups, hosts, and regulars who can tell immediately whether a guest understands the setting.",
+      "the_room": "Stewards, rowing alumni, club families, hospitality hosts, and London summer regulars who can read enclosure literacy at a glance.",
       "dress_notes": [
-        "Check enclosure rules, especially for jackets, ties, hems, and hats.",
+        "Check enclosure rules carefully, especially for jackets, ties, hems, and hats.",
         "Linen is welcome; sloppiness is not.",
-        "Choose footwear that survives grass and towpaths."
+        "Choose footwear for grass, gravel, and towpaths, not polished floors alone."
       ],
       "what_to_get_right": [
-        "Stand clear when crews and officials are moving through tight spaces.",
-        "Do not treat the riverbank as if it were a festival field.",
-        "Observe the tone of your enclosure before raising the volume."
+        "Know whether you are public side, hospitality, or Stewards' Enclosure; behaviour changes with the badge.",
+        "Stand clear when crews, officials, and stewards are moving through tight riverside spaces.",
+        "Let the day keep its riverbank tempo; over-amped festival energy always reads imported."
       ],
       "before_you_go": [
-        "Confirm your enclosure and guest arrangements before the day begins.",
-        "Book riverside lunches and transport early.",
-        "Bring weather cover that does not ruin the rest of the look."
+        "Confirm enclosure passes, lunch plans, and any launch or river arrangements before the day begins.",
+        "Book riverside dining and transport early.",
+        "Carry weather cover that respects the dress code rather than defeating it."
       ],
       "related_event_ids": [],
       "featured": false,
@@ -1004,9 +1004,9 @@
       "briefing_release_date": "2026-04-01T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T09:00:00Z",
+      "last_updated_at": "2026-04-12T11:30:00Z",
       "preview_summary": "Henley blends competitive rowing with one of the most recognisable codes of the English summer, where the riverbank doubles as clubland in daylight.",
-      "premium_briefing": "Henley is not about dramatic display. It is about understanding enclosure codes, river etiquette, and the art of appearing entirely at ease in heat and crowds."
+      "premium_briefing": "Henley looks relaxed only to people who miss the codes. The real test is whether you understand enclosure rules, riverbank pacing, and the quiet hierarchy between rowing families, hosts, and summer spectators."
     },
     {
       "id": "bayreuth-festival",
@@ -1028,20 +1028,20 @@
       "website_url": "https://www.bayreuther-festspiele.de/en/programme/programme/",
       "summary": "Bayreuth is pilgrimage as much as festival. Guests arrive for Wagner, but the code of conduct is really about reverence for the institution and the room around it.",
       "why_it_matters": "Bayreuth rewards cultural seriousness and punishes affectation. It is one of the few places where knowing the room is inseparable from knowing the work.",
-      "the_room": "Patrons, music lovers, officials, and guests who still treat attendance as an annual rite.",
+      "the_room": "Patrons, Wagner devotees, German cultural figures, donors, and annual guests who still treat attendance as a serious ritual rather than casual summer entertainment.",
       "dress_notes": [
-        "Think elegant evening dress with sobriety rather than performance.",
-        "Comfort matters because programmes can be long.",
-        "Formal shoes should still survive steep steps and summer heat."
+        "Think elegant evening dress with cultural sobriety rather than performance.",
+        "Comfort matters because programmes are long and the approach to the Festspielhaus is part of the evening.",
+        "Formal shoes should manage steps, summer heat, and extended intervals."
       ],
       "what_to_get_right": [
-        "Arrive with time to spare; Bayreuth does not suit rushed entrances.",
-        "Intervals are for measured conversation, not loud verdicts.",
-        "Respect the ritual quality of the evening even if your hosts appear relaxed."
+        "Arrive early; Bayreuth does not suit rushed entrances up the hill.",
+        "Reserve strong opinions for the interval conversation and deliver them at civilized volume.",
+        "Treat the ritual quality of the evening seriously even if your hosts are personally relaxed."
       ],
       "before_you_go": [
         "Check the work, running time, and seating before the day.",
-        "Book dining around performance length rather than hope.",
+        "Plan for warmth, long durations, and limited spontaneity in supper timing.",
         "Arrange transport back from the Festspielhaus in advance."
       ],
       "related_event_ids": [],
@@ -1052,9 +1052,9 @@
       "briefing_release_date": "2026-04-25T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T09:00:00Z",
+      "last_updated_at": "2026-04-12T11:30:00Z",
       "preview_summary": "Bayreuth is pilgrimage as much as festival. Guests arrive for Wagner, but the code of conduct is really about reverence for the institution and the room around it.",
-      "premium_briefing": "Bayreuth rewards cultural seriousness and punishes affectation. It is one of the few places where knowing the room is inseparable from knowing the work."
+      "premium_briefing": "Bayreuth rewards cultural seriousness and preparation. The guests who look most at ease are usually the ones who have allowed for the hill, the length of the work, and the fact that conversation here assumes genuine interest rather than social filler."
     },
     {
       "id": "monaco-yacht-show",
@@ -1076,20 +1076,20 @@
       "website_url": "https://www.monacoyachtshow.com/en",
       "summary": "The Monaco Yacht Show is a sales floor disguised as Riviera theatre. Access, punctuality, and restraint matter more than any attempt to perform wealth.",
       "why_it_matters": "A yacht show is built around introductions and trust. Guests who ignore crew, timing, or deck etiquette make themselves memorable for the wrong reasons.",
-      "the_room": "Brokers, principals, family offices, designers, shipyard teams, and hospitality partners conducting business at social volume.",
+      "the_room": "Brokers, principals, family offices, shipyard teams, designers, and luxury partners conducting business at social volume along Port Hercule.",
       "dress_notes": [
-        "Choose pieces that move easily between pontoons and meetings.",
+        "Choose pieces that move easily between pontoons, boardings, and hotel meetings.",
         "Heels, bags, and jackets need to work on decks and docks.",
         "Keep the palette calm; the harbour already supplies the spectacle."
       ],
       "what_to_get_right": [
-        "Never board without explicit invitation from the host team.",
+        "Never board without explicit invitation from the host team or broker.",
         "Treat crew with the same courtesy you offer owners and brokers.",
-        "Keep meetings on time; every serious guest is running a schedule."
+        "Keep meetings on time; every serious guest is working a tightly layered schedule."
       ],
       "before_you_go": [
-        "Map yacht visits carefully because walking times are deceptive.",
-        "Carry credentials visibly and keep host names straight.",
+        "Map yacht visits carefully because walking times between berths are deceptive.",
+        "Carry credentials visibly and keep host names, berth numbers, and appointment slots straight.",
         "Book lunches and late drinks early; Monaco fills around the show."
       ],
       "related_event_ids": [],
@@ -1100,9 +1100,9 @@
       "briefing_release_date": "2026-06-25T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T09:00:00Z",
+      "last_updated_at": "2026-04-12T11:30:00Z",
       "preview_summary": "The Monaco Yacht Show is a sales floor disguised as Riviera theatre. Access, punctuality, and restraint matter more than any attempt to perform wealth.",
-      "premium_briefing": "A yacht show is built around introductions and trust. Guests who ignore crew, timing, or deck etiquette make themselves memorable for the wrong reasons."
+      "premium_briefing": "The show looks theatrical, but the useful currency is trust. Guests who respect crew, timing, and onboard etiquette are remembered as principals; guests who treat every deck like a photo set are remembered at all, which is worse."
     },
     {
       "id": "singapore-grand-prix",
@@ -1124,21 +1124,21 @@
       "website_url": "https://singaporegp.sg/",
       "summary": "Singapore's night race is one of the cleanest combinations of serious hospitality and city-state precision on the Formula 1 calendar.",
       "why_it_matters": "Guests who dress for the humidity, respect timing, and move efficiently through hospitality zones stand out for the right reasons.",
-      "the_room": "Business leaders, sponsor guests, regional hosts, and an international crowd used to high service standards.",
+      "the_room": "Regional business leaders, sponsor hosts, F1 guests, and international travellers moving between suites, clubs, and late-night city dinners.",
       "dress_notes": [
-        "Dress for heat first and for photography second.",
+        "Dress for humidity first and for photography second.",
         "Tailoring should breathe; stiffness looks worse by the hour.",
-        "Evening polish works best when it remains functional."
+        "Evening polish works best when it remains functional across stairs, shuttles, and crowded hospitality decks."
       ],
       "what_to_get_right": [
-        "Move early between zones; the city crowds quickly after dusk.",
-        "Be exact about guest credentials and suite access.",
-        "Hospitality staff in Singapore are highly professional; treat them accordingly."
+        "Move early between zones; the circuit crowds quickly after dusk.",
+        "Be exact about guest credentials, gate numbers, and suite access.",
+        "Singapore service standards are high, so impatience is especially revealing."
       ],
       "before_you_go": [
         "Check gate, zone, and transport arrangements before leaving the hotel.",
-        "Keep hydration and weather in mind when dressing.",
-        "Plan late suppers around traffic rather than against it."
+        "Hydrate and dress with weather in mind; the city extracts heat from poor planning.",
+        "Plan late suppers around traffic and post-race congestion."
       ],
       "related_event_ids": [],
       "featured": false,
@@ -1148,9 +1148,9 @@
       "briefing_release_date": "2026-07-11T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T09:00:00Z",
+      "last_updated_at": "2026-04-12T11:30:00Z",
       "preview_summary": "Singapore's night race is one of the cleanest combinations of serious hospitality and city-state precision on the Formula 1 calendar.",
-      "premium_briefing": "Guests who dress for the humidity, respect timing, and move efficiently through hospitality zones stand out for the right reasons."
+      "premium_briefing": "Singapore rewards clean logistics. The guest who arrives dry, on time, and correctly credentialed into the right suite looks far more impressive than the one wearing the better jacket."
     },
     {
       "id": "pad-london",
@@ -1172,7 +1172,7 @@
       "website_url": "https://www.padesignart.com/en/london/",
       "summary": "PAD brings design, decorative arts, and collector conversation into a setting that rewards taste, patience, and well-judged daytime polish.",
       "why_it_matters": "Art-fair manners are largely about not treating every stand as a backdrop or every dealer as a shop assistant.",
-      "the_room": "Collectors, advisers, dealers, decorators, and guests who understand that looking carefully is a social act as well as an aesthetic one.",
+      "the_room": "Collectors, advisers, dealers, decorators, designers, and socially fluent buyers moving between stands, lunches, and Mayfair appointments.",
       "dress_notes": [
         "Daywear should feel polished enough for Mayfair but easy enough for long hours on foot.",
         "Quiet tailoring and excellent accessories read particularly well here.",
@@ -1180,13 +1180,13 @@
       ],
       "what_to_get_right": [
         "Let dealers finish with clients before stepping into a conversation.",
-        "Ask before photographing works or interiors.",
-        "Do not block stands with social chatter if others are viewing."
+        "Ask before photographing works, booths, or interiors.",
+        "Do not use a stand as a backdrop for long social chatter when others are viewing."
       ],
       "before_you_go": [
-        "Book preview access early if you want first look at strong pieces.",
-        "Review exhibitors before you arrive; it sharpens the day considerably.",
-        "Plan lunches and meetings around Frieze week traffic."
+        "Secure preview access early if you want first look at strong pieces.",
+        "Review exhibitors before you arrive; it changes the quality of the day.",
+        "Plan lunches and meetings around Frieze-week traffic, not despite it."
       ],
       "related_event_ids": [],
       "featured": false,
@@ -1196,9 +1196,9 @@
       "briefing_release_date": "2026-07-15T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T09:00:00Z",
+      "last_updated_at": "2026-04-12T11:30:00Z",
       "preview_summary": "PAD brings design, decorative arts, and collector conversation into a setting that rewards taste, patience, and well-judged daytime polish.",
-      "premium_briefing": "Art-fair manners are largely about not treating every stand as a backdrop or every dealer as a shop assistant."
+      "premium_briefing": "PAD is less hectic than Frieze and therefore less forgiving of sloppy manners. The strongest guests look carefully, speak economically, and understand that design buying often begins with trust rather than immediate enthusiasm."
     },
     {
       "id": "frieze-london-and-frieze-masters",
@@ -1220,21 +1220,21 @@
       "website_url": "https://www.frieze.com/fairs/frieze-london",
       "summary": "Frieze week turns London into a dense circuit of fairs, dinners, previews, and private viewings, with Regent's Park as the obvious centre of gravity.",
       "why_it_matters": "Art-fair etiquette is about looking, listening, and not mistaking visibility for importance. Good guests leave room for dealers to do their work.",
-      "the_room": "Collectors, galleries, advisers, museum figures, and an outer ring of social attendees trying not to look like one.",
+      "the_room": "Collectors, galleries, advisers, museum figures, patrons, and a broader social ring trying not to look like one.",
       "dress_notes": [
         "Think urban polish that survives long hours and changing weather.",
-        "Clothes should not compete with the art or the room.",
-        "Footwear matters more than anyone admits."
+        "Clothes should not compete with the art or the dealer's client conversation.",
+        "Footwear matters more than anyone admits across the tents, previews, and dinners."
       ],
       "what_to_get_right": [
-        "Preview access is a privilege; use it with some calm.",
-        "Do not photograph people or works casually on dealer stands.",
-        "Keep conversations with dealers concise when traffic is heavy."
+        "Preview access is a privilege; use it calmly and keep dealer time brief when traffic is heavy.",
+        "Ask before photographing works or people on stands.",
+        "Build space into conversations; the fair runs on short, repeated meetings rather than one long performance."
       ],
       "before_you_go": [
-        "Build a route; Frieze week rewards planning.",
-        "Coordinate lunches and dinners well ahead because the city is full.",
-        "If collecting seriously, review exhibitor lists before arrival."
+        "Plan a route across both fairs and your off-site viewings; Frieze week rewards discipline.",
+        "Coordinate lunches and dinners well ahead because London fills fast.",
+        "If collecting seriously, review exhibitor lists and hold priorities before arrival."
       ],
       "related_event_ids": [],
       "featured": false,
@@ -1244,9 +1244,9 @@
       "briefing_release_date": "2026-07-16T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T09:00:00Z",
+      "last_updated_at": "2026-04-12T11:30:00Z",
       "preview_summary": "Frieze week turns London into a dense circuit of fairs, dinners, previews, and private viewings, with Regent's Park as the obvious centre of gravity.",
-      "premium_briefing": "Art-fair etiquette is about looking, listening, and not mistaking visibility for importance. Good guests leave room for dealers to do their work."
+      "premium_briefing": "Frieze week is won by routing, not posturing. The guests who do it well know which stands require an early pass, which dinners matter more than the fair floor, and when to stop talking so a dealer can close a sale."
     },
     {
       "id": "abu-dhabi-grand-prix",
@@ -1268,21 +1268,21 @@
       "website_url": "https://www.abudhabigp.com/en/",
       "summary": "Abu Dhabi closes the Formula 1 year with a hospitality calendar that stretches well beyond the track and rewards guests who can move through a busy weekend without looking hurried.",
       "why_it_matters": "Final-race weekends gather more expectation than most. The room values polish, punctuality, and a strong sense of who is hosting whom.",
-      "the_room": "Team guests, principals, luxury clients, regional hosts, and a season-ending crowd that expects smoothness as standard.",
+      "the_room": "Team guests, principals, sponsor hosts, regional luxury clients, and an end-of-season crowd that expects polished handling as standard.",
       "dress_notes": [
         "Keep evening looks refined and climate-aware.",
-        "Choose footwear that works across circuit, suite, and after-party settings.",
-        "Polish beats excess, especially in sponsor areas."
+        "Choose footwear that works across circuit, suite, yacht, and after-party settings.",
+        "Polish beats excess, especially in sponsor and family-hosted areas."
       ],
       "what_to_get_right": [
-        "Treat credentials and invitation tiers carefully; access is precise.",
-        "Be on time for hosted arrivals, especially if boats or shuttles are involved.",
-        "Keep conversations light unless the host sets a more serious tone."
+        "Treat credentials and invitation tiers carefully; access is exact and monitored.",
+        "Be on time for hosted arrivals, especially when boats, shuttles, or escorted transfers are involved.",
+        "Match the host's tone; some rooms are celebratory, others are still transactional."
       ],
       "before_you_go": [
-        "Map the circuit and hospitality entries before race weekend begins.",
-        "Confirm transport details for evening events around Yas Marina.",
-        "Build in recovery time; the social schedule runs late."
+        "Map the circuit, marina, and hospitality entries before race weekend begins.",
+        "Confirm transport details for Yas Marina evening events well ahead.",
+        "Build in recovery time; the final-race social calendar runs later than most guests admit."
       ],
       "related_event_ids": [],
       "featured": false,
@@ -1292,9 +1292,9 @@
       "briefing_release_date": "2026-09-05T09:00:00Z",
       "season_year": 2026,
       "status": "upcoming",
-      "last_updated_at": "2026-04-12T09:00:00Z",
+      "last_updated_at": "2026-04-12T11:30:00Z",
       "preview_summary": "Abu Dhabi closes the Formula 1 year with a hospitality calendar that stretches well beyond the track and rewards guests who can move through a busy weekend without looking hurried.",
-      "premium_briefing": "Final-race weekends gather more expectation than most. The room values polish, punctuality, and a strong sense of who is hosting whom."
+      "premium_briefing": "As the season finale, Abu Dhabi gathers more expectation than most grands prix. The best guests move smoothly between circuit hospitality and marina evenings without ever making the staffing, transport, or invitation choreography look difficult."
     }
   ],
   "dining_topics": [
@@ -1424,7 +1424,7 @@
         },
         {
           "heading": "The Bread Plate",
-          "body": "The bread plate sits to your left. When in doubt: food left, drink right. The mnemonic BMW serves well \u2014 Bread, Meal, Water."
+          "body": "The bread plate sits to your left. When in doubt: food left, drink right. The mnemonic BMW serves well — Bread, Meal, Water."
         },
         {
           "heading": "Timing",
@@ -1540,7 +1540,7 @@
       "role": "Diplomatic rank below Ambassador",
       "writtenForm": "His Excellency Mr Jian Liu, Minister of the People's Republic",
       "spokenForm": "Your Excellency",
-      "usageNote": "Charg\u00e9s d'affaires a.i. hold equivalent courtesy during tenure."
+      "usageNote": "Chargés d'affaires a.i. hold equivalent courtesy during tenure."
     },
     {
       "id": "address-field-marshal",
