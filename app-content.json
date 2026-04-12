@@ -1,21 +1,23 @@
 {
-  "version": 1,
+  "schema_version": 1,
+  "content_version": "2026-04-12.1",
+  "updated_at": "2026-04-12T08:59:32Z",
   "events": [
     {
       "id": "white-tie",
       "title": "White Tie",
       "classification": "Evening",
-      "summary": "The highest standard of Western formal dress, reserved for state dinners, royal galas, and the most ceremonial evening occasions. White tie rewards precision, restraint, and absolute correctness.",
+      "summary": "The highest standard of Western formal dress, reserved for state dinners, royal galas, and ceremonial evenings of the first order. It rewards absolute correctness and admits no approximation.",
       "metadata": {
-        "formality": "Very high",
-        "setting": "State / Ceremonial",
+        "formality": "Very High",
+        "setting": "State and Ceremonial",
         "time": "Evening",
         "venue": "Palaces, state residences, grand ballrooms",
         "typicalGuests": "Heads of state, royalty, senior diplomats"
       },
       "atAGlance": {
-        "men": "Black tailcoat, white waistcoat, white bow tie, patent shoes",
-        "women": "Full-length gown, formal shoes, elegant jewellery",
+        "men": "Black tailcoat, white waistcoat, white self-tied bow tie, patent shoes",
+        "women": "Full-length gown, formal shoes, considered jewellery",
         "avoid": "Dinner jackets, black bow ties, wristwatches, early departure"
       },
       "dressCode": {
@@ -25,164 +27,164 @@
           "Stiff-fronted white evening shirt",
           "White self-tied bow tie",
           "High-waisted trousers with double braid",
-          "Patent pumps or polished patent oxfords"
+          "Patent pumps or highly polished patent oxfords"
         ],
         "women": [
-          "Full-length evening gown or ball gown",
+          "Full-length evening or ball gown",
           "Formal evening shoes",
-          "Refined jewellery",
-          "Long gloves optional",
-          "Tiara only if entitled or specified"
+          "Considered jewellery",
+          "Long gloves, optional",
+          "Tiara only where entitled or specifically invited"
         ]
       },
       "protocol": {
-        "behavior": "Stand until the host or senior dignitary arrives. Keep conversation measured and manner restrained.",
-        "dining": "Port is traditionally passed to the left. Do not drink before the principal toast if a formal sequence applies.",
-        "digital": "Phones remain out of sight. No photography or social posting.",
-        "forms_of_address": "Duke or Duchess: 'Your Grace'; King: 'Your Majesty' then 'Sir'; Queen: 'Your Majesty' then 'Ma’am'."
+        "behavior": "Stand until the host or senior dignitary is seated. Manner should be composed and conversation measured throughout.",
+        "dining": "Port is passed to the left without exception. Do not drink before the principal toast where a formal sequence applies.",
+        "digital": "Phones remain out of sight entirely. Photography and social posting are not appropriate.",
+        "forms_of_address": "The Sovereign: 'Your Majesty', then 'Sir' or 'Ma'am'. A Duke or Duchess: 'Your Grace'."
       },
       "commonMistakes": [
         "Wearing a wristwatch",
-        "Using black tie pieces",
-        "Showing too much waistcoat",
+        "Using any black tie component",
+        "Showing too much waistcoat above the tailcoat",
         "Leaving before the host",
-        "Using a phone in view"
+        "Producing a phone in view"
       ],
       "checklist": [
-        "Tailcoat and trousers match",
-        "White waistcoat fitted correctly",
+        "Tailcoat and trousers are matched",
+        "White waistcoat is correctly fitted",
         "Bow tie is self-tied",
         "Shoes are highly polished",
-        "Titles reviewed in advance",
-        "Phone is silent and hidden"
+        "Relevant titles reviewed beforehand",
+        "Phone is silent and out of sight"
       ]
     },
     {
       "id": "black-tie",
       "title": "Black Tie",
       "classification": "Evening",
-      "summary": "The modern standard for formal dinners, galas, weddings, and evening receptions. It creates a disciplined backdrop of elegance while allowing the event itself to take precedence.",
+      "summary": "The standard for formal dinners, galas, and evening receptions. Black tie creates a disciplined visual backdrop; the occasion takes precedence, and the individual dresses accordingly.",
       "metadata": {
         "formality": "High",
-        "setting": "Formal social",
+        "setting": "Formal Social",
         "time": "Evening",
         "venue": "Hotels, private dining rooms, formal venues",
         "typicalGuests": "Corporate leaders, social figures, public personalities"
       },
       "atAGlance": {
-        "men": "Dinner jacket, white evening shirt, black bow tie, polished black shoes",
-        "women": "Evening gown or elegant cocktail dress, refined accessories",
-        "avoid": "Pre-tied bow ties, brown shoes, casual fabrics, late arrival"
+        "men": "Dinner jacket, white evening shirt, black self-tied bow tie, polished black shoes",
+        "women": "Evening gown or a well-judged cocktail dress with refined accessories",
+        "avoid": "Pre-tied bow ties, brown shoes, casual fabrics, late arrival without notice"
       },
       "dressCode": {
         "men": [
-          "Black or midnight dinner jacket",
+          "Black or midnight blue dinner jacket",
           "Matching trousers with single braid",
           "White evening shirt",
           "Black self-tied bow tie",
-          "Black cummerbund or low waistcoat",
+          "Black cummerbund or low evening waistcoat",
           "Polished black or patent shoes"
         ],
         "women": [
           "Floor-length evening gown",
-          "Elegant cocktail dress",
-          "Evening trousers if well cut",
+          "Elegant cocktail dress where the room permits",
+          "Well-cut evening trousers",
           "Formal shoes and evening bag"
         ]
       },
       "protocol": {
-        "behavior": "Arrive shortly after the stated time unless instructed otherwise. Keep greetings easy, composed, and host-led.",
-        "dining": "Use cutlery from the outside in. Break bread by hand into small pieces.",
-        "digital": "Phones stay silent and out of sight. Do not check them at table.",
-        "forms_of_address": "Knights are addressed as 'Sir' plus first name. Most peers below duke are addressed as 'Lord' or 'Lady'."
+        "behavior": "Arrive shortly after the stated time. Greetings should be easy, composed, and host-led.",
+        "dining": "Cutlery from the outside in. Bread broken by hand into small pieces.",
+        "digital": "Phones stay silent and off the table. They are not consulted during a course.",
+        "forms_of_address": "Knights are addressed as 'Sir' with the first name. Peers below duke are 'Lord' or 'Lady'."
       },
       "commonMistakes": [
         "Wearing a pre-tied bow tie",
-        "Using a business suit",
-        "Starting before the host",
-        "Checking a phone at table",
-        "Arriving notably late"
+        "Substituting a business suit",
+        "Eating before the host",
+        "Consulting a phone at table",
+        "Arriving notably late without notice"
       ],
       "checklist": [
-        "Jacket is pressed and fitted",
+        "Jacket is pressed and well fitted",
         "Bow tie is self-tied",
         "Shoes are polished",
         "Arrival is well timed",
         "Phone is off the table",
-        "Basic table order understood"
+        "Table order is understood"
       ]
     },
     {
       "id": "royal-garden-party",
       "title": "Royal Garden Party",
       "classification": "Daytime",
-      "summary": "A formal royal outdoor event held to recognise public service and distinguished contribution. It combines elegance, practicality, and careful royal etiquette.",
+      "summary": "A formal royal occasion held to recognise public service and distinguished contribution. It combines elegance with practicality and asks guests to observe royal etiquette throughout.",
       "metadata": {
         "formality": "High",
         "setting": "Royal",
         "time": "Daytime",
         "venue": "Palace grounds",
-        "typicalGuests": "Royal family, honourees, invited guests"
+        "typicalGuests": "Members of the Royal Family, honourees, invited guests"
       },
       "atAGlance": {
-        "men": "Morning dress, lounge suit, uniform, or formal national dress",
+        "men": "Morning dress, tailored lounge suit, uniform, or formal national dress",
         "women": "Formal day dress or trouser suit with hat or fascinator",
-        "avoid": "Stilettos, casual wear, selfies, informal approach"
+        "avoid": "Stilettos on grass, casual wear, uninvited address, selfies"
       },
       "dressCode": {
         "men": [
-          "Morning dress or tailored lounge suit",
+          "Morning dress or well-tailored lounge suit",
           "Uniform where appropriate",
-          "Formal national dress if suitable",
-          "Polished conservative shoes",
+          "Formal national dress if applicable",
+          "Polished and conservative shoes",
           "Top hat optional with morning dress"
         ],
         "women": [
           "Formal day dress at or below the knee",
           "Elegant trouser suit",
           "Hat or fascinator",
-          "Low block heels or flats",
-          "Modest neckline and polished accessories"
+          "Low block heels or flats suited to the lawn",
+          "Modest neckline and considered accessories"
         ]
       },
       "protocol": {
-        "behavior": "Wait for a royal to address you first. Keep the exchange brief, respectful, and composed.",
-        "dining": "Manage tea, plate, and conversation neatly. Avoid crowding service points.",
-        "digital": "Photography may be allowed in the gardens, but selfies with royals are not appropriate.",
-        "forms_of_address": "Use 'Your Majesty' for the Sovereign first, then 'Sir' or 'Ma’am'. Use 'Your Royal Highness' first for other senior royals."
+        "behavior": "Wait to be addressed before speaking to a member of the Royal Family. Keep any exchange brief, respectful, and composed.",
+        "dining": "Manage tea, plate, and conversation without crowding service points.",
+        "digital": "Photography in the gardens may be permitted. Selfies with members of the Royal Family are not appropriate.",
+        "forms_of_address": "The Sovereign: 'Your Majesty' first, then 'Sir' or 'Ma'am'. Other senior royals: 'Your Royal Highness' first."
       },
       "commonMistakes": [
-        "Wearing stilettos on grass",
-        "Treating it like a casual garden party",
-        "Speaking before being addressed",
-        "Requesting a selfie",
-        "Ignoring the outdoor setting"
+        "Wearing stilettos on the lawn",
+        "Approaching a royal without being addressed first",
+        "Treating the occasion as an informal garden event",
+        "Requesting a photograph",
+        "Disregarding the outdoor setting in dress choices"
       ],
       "checklist": [
-        "Invitation reviewed carefully",
-        "Daywear is polished",
-        "Hat or fascinator ready",
-        "Shoes suit the lawn",
-        "Royal address is memorised",
-        "Phone use is discreet"
+        "Invitation read carefully",
+        "Daywear is polished and appropriate",
+        "Hat or fascinator is prepared",
+        "Shoes are suited to the lawn",
+        "Correct forms of address are known",
+        "Phone use remains discreet"
       ]
     },
     {
       "id": "business-formal-dinner",
       "title": "Business Formal Dinner",
       "classification": "Professional",
-      "summary": "A professional dining setting where conversation, self-command, and table manners are all visible at once. It requires polish without showiness and judgment without stiffness.",
+      "summary": "A professional dining occasion where self-command, table conduct, and conversational judgement are visible at once. It asks for polish without performance and ease without informality.",
       "metadata": {
-        "formality": "Medium-high",
+        "formality": "Medium-High",
         "setting": "Professional",
         "time": "Evening",
         "venue": "Private dining rooms, high-end restaurants, board settings",
-        "typicalGuests": "Executives, clients, government officials"
+        "typicalGuests": "Senior executives, clients, government officials"
       },
       "atAGlance": {
-        "men": "Dark suit, crisp shirt, professional tie, polished shoes",
+        "men": "Dark suit, crisp shirt, considered tie, polished shoes",
         "women": "Business suit, conservative dress, or refined trouser suit",
-        "avoid": "Over-ordering, phone use, aggressive business talk, asking for leftovers"
+        "avoid": "Over-ordering, phone use at table, unsolicited business proposals, asking for the remainder to take away"
       },
       "dressCode": {
         "men": [
@@ -193,31 +195,31 @@
           "Matched belt and restrained accessories"
         ],
         "women": [
-          "Business suit or refined dress",
+          "Business suit or considered dress",
           "Smart trouser suit",
           "Understated shoes and accessories",
-          "Polished appearance without glamour"
+          "A polished appearance free of glamour"
         ]
       },
       "protocol": {
-        "behavior": "Rise for introductions and follow the host's lead on seating, pace, and conversation.",
-        "dining": "Use the BMW rule: bread left, meal middle, water right. Avoid messy foods.",
-        "digital": "Phones stay off the table and on silent. Give full attention to the table.",
-        "forms_of_address": "Use courtesy titles and surnames unless invited otherwise. Senior officials may require office-based forms."
+        "behavior": "Rise for introductions. Follow the host's lead on seating, conversation pace, and the close of the evening.",
+        "dining": "Bread left, meal centre, water right. Avoid dishes that require effort or create mess.",
+        "digital": "Phones remain off the table and on silent. Full attention belongs to those present.",
+        "forms_of_address": "Courtesy titles and surnames unless a more familiar address is invited. Senior officials may require office-based forms."
       },
       "commonMistakes": [
-        "Ordering the most expensive dish",
-        "Using a smartphone at table",
-        "Starting before the host",
-        "Turning dinner into a hard pitch",
-        "Asking for a doggy bag"
+        "Ordering the most expensive item on the menu",
+        "Consulting a phone during the meal",
+        "Beginning before the host",
+        "Using the dinner as an occasion for a hard pitch",
+        "Asking to take the remainder away"
       ],
       "checklist": [
-        "Attire is above office standard",
+        "Attire is a step above office standard",
         "Arrival is punctual",
-        "Host sets the pace",
-        "Phone is put away",
-        "Food choice is neat",
+        "Host sets the pace throughout",
+        "Phone is put away on arrival",
+        "Food choice is neat and considered",
         "Thanks are offered before leaving"
       ]
     },
@@ -225,52 +227,52 @@
       "id": "private-members-club",
       "title": "Private Members Club",
       "classification": "Private",
-      "summary": "A private members club is a discreet refuge from public life. Its rules protect privacy, preserve atmosphere, and reward self-possession over display.",
+      "summary": "A private members club is a discreet refuge from public life. Its rules exist to protect privacy, preserve atmosphere, and return the advantage to those who understand the room.",
       "metadata": {
-        "formality": "Medium-high",
-        "setting": "Private social",
-        "time": "Day or evening",
+        "formality": "Medium-High",
+        "setting": "Private Social",
+        "time": "Day or Evening",
         "venue": "Private clubs",
-        "typicalGuests": "Members, patrons, cultural and professional elites"
+        "typicalGuests": "Members, patrons, cultural and professional figures"
       },
       "atAGlance": {
         "men": "Tailored jacket, collared shirt, polished shoes; tie often required",
         "women": "Elegant smart attire such as a dress or tailored trouser suit",
-        "avoid": "Denim, trainers, loud behaviour, photography, business papers"
+        "avoid": "Denim, trainers, raised voices, photography, spreading business papers"
       },
       "dressCode": {
         "men": [
           "Tailored jacket and collared shirt",
-          "Tie where house rules require it",
+          "Tie where house rules require",
           "Formal trousers and polished shoes",
           "No denim, trainers, shorts, or sportswear"
         ],
         "women": [
           "Elegant dress or tailored trouser suit",
-          "Refined smart attire",
-          "Understated styling",
-          "No denim, shorts, or flip-flops"
+          "Considered smart attire",
+          "Understated styling throughout",
+          "No denim, shorts, or casual footwear"
         ]
       },
       "protocol": {
-        "behavior": "Review house rules before visiting. Move quietly and remember you may be present as a guest.",
-        "discretion": "Do not approach public figures for attention. Avoid overt business in social rooms.",
-        "digital": "Keep devices silent. Calls are usually confined to booths or private rooms, and photography is often banned.",
-        "forms_of_address": "Courtesy titles remain appropriate unless a more familiar relationship clearly exists."
+        "behavior": "Review house rules before visiting. Move quietly. If attending as a guest, your conduct reflects on the member who invited you.",
+        "discretion": "Do not approach public figures for conversation unless introduced. Business is not conducted in social rooms.",
+        "digital": "Devices remain silent. Calls are confined to designated areas. Photography is commonly prohibited.",
+        "forms_of_address": "Courtesy titles remain appropriate unless a more familiar relationship is clearly established."
       },
       "commonMistakes": [
-        "Ignoring house dress rules",
-        "Displaying business papers",
+        "Disregarding house dress rules",
+        "Spreading business papers in social rooms",
         "Taking photographs",
-        "Speaking too loudly",
-        "Treating the club like a hotel lobby"
+        "Speaking at a volume that carries",
+        "Treating the club as a hotel lobby"
       ],
       "checklist": [
-        "Club rules checked first",
-        "Jacket and shoes prepared",
+        "House rules checked in advance",
+        "Jacket and shoes are prepared",
         "Phone is on silent",
-        "Photos are avoided",
-        "Behaviour stays discreet",
+        "Photography is avoided",
+        "Conduct remains discreet throughout",
         "Host is thanked before leaving"
       ]
     },
@@ -278,215 +280,1020 @@
       "id": "diplomatic-reception",
       "title": "Diplomatic Reception",
       "classification": "Diplomatic",
-      "summary": "A diplomatic reception is governed by hierarchy, tact, and international courtesy. Correct forms of address and careful observation matter more than charm alone.",
+      "summary": "A diplomatic reception is governed by hierarchy, tact, and international courtesy. Correct forms of address and careful observation are not optional refinements; they are the minimum expected.",
       "metadata": {
         "formality": "High",
         "setting": "Diplomatic",
-        "time": "Day or evening",
-        "venue": "Embassies, missions, government residences",
+        "time": "Day or Evening",
+        "venue": "Embassies, high commissions, government residences",
         "typicalGuests": "Ambassadors, high commissioners, envoys, senior officials"
       },
       "atAGlance": {
-        "men": "Dark suit unless black tie or white tie is specified",
-        "women": "Elegant formal or semi-formal dress suited to the invitation",
-        "avoid": "Guessing titles, criticizing the host country, casual cocktail-party behaviour"
+        "men": "Dark suit unless the invitation specifies otherwise",
+        "women": "Formal or semi-formal dress suited to the invitation",
+        "avoid": "Guessing at titles, commenting on the host country's affairs, treating it as a social cocktail party"
       },
       "dressCode": {
         "men": [
-          "Dark formal suit unless invitation states otherwise",
-          "Black tie, white tie, uniform, or national dress if specified",
+          "Dark formal suit unless the invitation specifies uniform, black tie, or national dress",
           "Crisp shirt and conservative tie",
           "Highly polished dark shoes"
         ],
         "women": [
-          "Elegant formal or semi-formal dress",
-          "Refined day dress for daytime functions",
-          "Attire scaled to local custom",
-          "Modest styling where culture requires it"
+          "Formal or semi-formal dress for evening functions",
+          "Refined day dress for daytime occasions",
+          "Attire scaled to the custom of the host country",
+          "Modest styling where required"
         ]
       },
       "protocol": {
-        "behavior": "Move through receiving lines efficiently and follow precedence for introductions and seating.",
-        "dining": "At standing receptions, take small portions and move away from the buffet.",
-        "digital": "Phones should remain discreet, silent, and secondary to the event.",
-        "forms_of_address": "Ambassadors and high commissioners are commonly addressed as 'Your Excellency' or 'Mr or Madam Ambassador' in formal settings."
+        "behavior": "Move through receiving lines without delay. Precedence governs introductions and seating.",
+        "dining": "At standing receptions, take small portions and move away from the service points promptly.",
+        "digital": "Phones remain discreet, silent, and subordinate to the occasion.",
+        "forms_of_address": "Ambassadors and high commissioners: 'Your Excellency' in formal address, or 'Mr Ambassador' and 'Madam Ambassador' in direct conversation."
       },
       "commonMistakes": [
-        "Ignoring the invitation dress code",
-        "Using titles carelessly",
-        "Criticizing the host country",
-        "Missing a seated function",
-        "Using crude or familiar language"
+        "Disregarding the dress code on the invitation",
+        "Applying titles carelessly or incorrectly",
+        "Commenting on the host country's internal affairs",
+        "Arriving late to a seated function",
+        "Using familiar or casual language in formal address"
       ],
       "checklist": [
-        "Dress code is confirmed",
-        "Titles are reviewed",
+        "Dress code confirmed from the invitation",
+        "Relevant titles reviewed in advance",
         "Arrival is punctual",
-        "Conversation stays tactful",
-        "Phone remains discreet",
-        "Host is thanked before leaving"
+        "Conversation remains measured and tactful",
+        "Phone stays discreet throughout",
+        "Host thanked before departure"
       ]
+    }
+  ],
+  "occasions": [
+    {
+      "id": "milan-fashion-week-mens",
+      "slug": "milan-fashion-week-mens",
+      "name": "Milan Fashion Week Men's",
+      "city": "Milan",
+      "country": "Italy",
+      "venue": "Various venues",
+      "start_month": "January",
+      "date_display": "16-20 January 2026",
+      "recurrence": "Annual",
+      "access_type": "Industry invitations, showroom appointments, selected public events",
+      "host_type": "Camera Nazionale della Moda Italiana",
+      "visibility": "Industry-led with limited public access",
+      "dress_code": "Sharp day tailoring; restraint reads better than trend-chasing",
+      "tone": "Fast, polished, commercially important",
+      "guest_mix": "Buyers, editors, designers, luxury clients, brand partners",
+      "focus": "Menswear and industry circuit",
+      "website_url": "https://www.cameramoda.it/en/milano-moda-uomo/calendar/",
+      "summary": "The January menswear shows open the European fashion calendar with a rhythm built around appointments, presentations, and a great deal of silent judgment in hotel lobbies.",
+      "why_it_matters": "Milan rewards those who understand that being fashionably dressed and being correctly dressed for the room are not the same achievement.",
+      "the_room": "Editors, buyers, luxury clients, and brand insiders moving between show venues, private fittings, and discreet dinners.",
+      "dress_notes": [
+        "Treat daytime as business dressing with fashion literacy, not costume.",
+        "Outerwear matters because arrivals are observed before introductions happen.",
+        "Comfortable shoes are practical; tired shoes are noticed."
+      ],
+      "what_to_get_right": [
+        "Arrive early enough for security and seating without making an entrance of it.",
+        "Respect seating plans and standing zones; they are social maps as much as logistics.",
+        "Keep post-show chatter brief unless the conversation is clearly invited."
+      ],
+      "before_you_go": [
+        "Confirm addresses and travel time between venues before the day begins.",
+        "Keep invitations and QR credentials to hand.",
+        "Book dinners early; the city runs on reservations during fashion week."
+      ],
+      "related_event_ids": [],
+      "featured": false,
+      "priority": 1
+    },
+    {
+      "id": "world-economic-forum-annual-meeting",
+      "slug": "world-economic-forum-annual-meeting",
+      "name": "World Economic Forum Annual Meeting",
+      "city": "Davos-Klosters",
+      "country": "Switzerland",
+      "venue": "Congress Centre and private venues across town",
+      "start_month": "January",
+      "date_display": "19-23 January 2026",
+      "recurrence": "Annual",
+      "access_type": "Accredited delegates, invited partners, private house guests",
+      "host_type": "World Economic Forum",
+      "visibility": "Credentialed access",
+      "dress_code": "Quiet winter tailoring with alpine practicality",
+      "tone": "Serious, compressed, hyper-scheduled",
+      "guest_mix": "Heads of state, CEOs, policy advisers, financiers, editors",
+      "focus": "Geopolitics and private diplomacy",
+      "website_url": "https://www.weforum.org/meetings/world-economic-forum-annual-meeting-2026/",
+      "summary": "Davos is less a conference than a temporary court of power, where scheduling discipline, introductions, and discretion matter as much as any panel title.",
+      "why_it_matters": "The etiquette of Davos is about time, hierarchy, and confidentiality. Those who overplay access quickly reveal that they do not have it.",
+      "the_room": "Global leaders, corporate principals, policy staff, and a parallel circuit of dinners, breakfasts, and chalet conversations.",
+      "dress_notes": [
+        "Dress for winter movement between venues, not for a chauffeured fantasy.",
+        "Technical outerwear is acceptable if it remains clean, dark, and deliberate.",
+        "Badges are practical objects here; keep them visible without fuss."
+      ],
+      "what_to_get_right": [
+        "Be punctual. A five-minute delay can cost an entire chain of introductions.",
+        "Do not treat private houses as networking free-for-alls.",
+        "Nothing about an off-record conversation is yours to repeat."
+      ],
+      "before_you_go": [
+        "Build each day around geography as well as calendar time.",
+        "Confirm security requirements for every venue.",
+        "Carry business cards, but offer them sparingly."
+      ],
+      "related_event_ids": [],
+      "featured": false,
+      "priority": 2
+    },
+    {
+      "id": "snow-polo-world-cup-st-moritz",
+      "slug": "snow-polo-world-cup-st-moritz",
+      "name": "Snow Polo World Cup St. Moritz",
+      "city": "St. Moritz",
+      "country": "Switzerland",
+      "venue": "Frozen Lake St. Moritz",
+      "start_month": "January",
+      "date_display": "23-25 January 2026",
+      "recurrence": "Annual",
+      "access_type": "Ticketed grandstand, hospitality, invited guests",
+      "host_type": "Snow Polo World Cup St. Moritz",
+      "visibility": "Public with premium hospitality",
+      "dress_code": "Luxe alpine daywear with weather discipline",
+      "tone": "Sporting, glamorous, brisk",
+      "guest_mix": "St. Moritz regulars, sponsors, private clients, international guests",
+      "focus": "Alpine sport and hospitality",
+      "website_url": "https://www.snowpolo-stmoritz.com/",
+      "summary": "Played on the frozen lake, Snow Polo is one of the clearest examples of Alpine society at full gloss: sport in the foreground, hospitality and observation just behind it.",
+      "why_it_matters": "It is a cold-weather occasion that still rewards polish. Looking prepared rather than overdressed is the mark to hit.",
+      "the_room": "St. Moritz families, polo sponsors, luxury clients, and guests moving between grandstand views and heated hospitality.",
+      "dress_notes": [
+        "Choose winter pieces that remain elegant once coats come off indoors.",
+        "Footwear must survive ice; suffering for style is not impressive here.",
+        "Daytime glamour should still permit movement and warmth."
+      ],
+      "what_to_get_right": [
+        "Arrive early enough to settle before play begins.",
+        "Respect sightlines in hospitality areas and around the lake edge.",
+        "Treat players and patrons alike with restraint rather than fan energy."
+      ],
+      "before_you_go": [
+        "Confirm whether your ticket includes hospitality or only seating.",
+        "Watch the weather and dress in layers that still look deliberate.",
+        "Reserve restaurants early; the town is full during the polo weekend."
+      ],
+      "related_event_ids": [],
+      "featured": false,
+      "priority": 3
+    },
+    {
+      "id": "paris-haute-couture-week",
+      "slug": "paris-haute-couture-week",
+      "name": "Paris Haute Couture Week",
+      "city": "Paris",
+      "country": "France",
+      "venue": "Various maisons and salons",
+      "start_month": "January",
+      "date_display": "26-29 January 2026",
+      "recurrence": "Annual",
+      "access_type": "Maison invitation, press accreditation, client appointments",
+      "host_type": "Federation de la Haute Couture et de la Mode",
+      "visibility": "Invitation-led",
+      "dress_code": "Refined day dressing with couture-level finish",
+      "tone": "Rarefied, elegant, exacting",
+      "guest_mix": "Maison clients, editors, stylists, collectors, luxury executives",
+      "focus": "Haute couture",
+      "website_url": "https://www.fhcm.paris/en/haute-couture-week",
+      "summary": "Haute Couture Week is Paris at its most ceremonial in fashion terms: fewer rooms, more weight, and a higher premium on ease, judgment, and access.",
+      "why_it_matters": "Couture rooms are sensitive to proportion. Loud dressing, loud conversation, and loud ambition all read badly.",
+      "the_room": "Long-standing clients, editors, house teams, and guests who know precisely where they belong in the room.",
+      "dress_notes": [
+        "Clothes should look resolved rather than merely expensive.",
+        "Jewellery and accessories work best when they do not compete with the collection.",
+        "Hair, shoes, and coat matter as much as the dress itself."
+      ],
+      "what_to_get_right": [
+        "Follow the seating plan exactly and take your place without hesitation.",
+        "Phones belong down once the show begins.",
+        "Backstage access is never implied by confidence."
+      ],
+      "before_you_go": [
+        "Keep invitations and driver details organised by day.",
+        "Plan for time lost to traffic; Paris runs tight during couture.",
+        "Confirm post-show fittings or salon appointments in writing."
+      ],
+      "related_event_ids": [],
+      "featured": false,
+      "priority": 4
+    },
+    {
+      "id": "the-ice-st-moritz",
+      "slug": "the-ice-st-moritz",
+      "name": "The I.C.E. St. Moritz",
+      "city": "St. Moritz",
+      "country": "Switzerland",
+      "venue": "Frozen Lake St. Moritz",
+      "start_month": "January",
+      "date_display": "30-31 January 2026",
+      "recurrence": "Annual",
+      "access_type": "Ticketed access, partner hospitality, invited collectors",
+      "host_type": "The I.C.E. St. Moritz",
+      "visibility": "Public with premium guest areas",
+      "dress_code": "Elegant winter dressing with practical footwear",
+      "tone": "Collector-led, cinematic, social",
+      "guest_mix": "Collectors, automotive houses, luxury partners, St. Moritz regulars",
+      "focus": "Collectors and concours society",
+      "website_url": "https://theicestmoritz.ch/",
+      "summary": "The I.C.E. brings exceptional classic cars onto the frozen lake and turns an automotive concours into one of the season's most photogenic social gatherings.",
+      "why_it_matters": "It is a collector event disguised as spectacle. Knowing when to admire and when to step back is part of getting it right.",
+      "the_room": "Collectors, automotive insiders, luxury sponsors, and guests who treat the lake as both display ground and drawing room.",
+      "dress_notes": [
+        "Think polished winter daywear rather than racing costume.",
+        "Gloves and outerwear should feel resolved, not improvised.",
+        "Footing matters; the lake is still a lake."
+      ],
+      "what_to_get_right": [
+        "Do not crowd cars or owners for photographs.",
+        "Respect barriers, marshals, and display instructions immediately.",
+        "Hospitality areas reward lightness; forced expertise does not."
+      ],
+      "before_you_go": [
+        "Check the programme because preview and competition days differ.",
+        "Book lunch and dinner around the event rather than after it.",
+        "Allow extra time for weather and lake access conditions."
+      ],
+      "related_event_ids": [],
+      "featured": false,
+      "priority": 5
+    },
+    {
+      "id": "piarist-debutante-ball",
+      "slug": "piarist-debutante-ball",
+      "name": "Piarist Debutante Ball",
+      "city": "New York",
+      "country": "United States",
+      "venue": "University Club, Manhattan",
+      "start_month": "January",
+      "date_display": "31 January 2026",
+      "recurrence": "Annual",
+      "access_type": "Ticketed gala and invited tables",
+      "host_type": "Piarist Ball Committee",
+      "visibility": "Invitation and ticketed philanthropy",
+      "dress_code": "White tie atmosphere with formal evening dress expected",
+      "tone": "Philanthropic, traditional, polished",
+      "guest_mix": "Debutante families, patrons, committee members, New York society guests",
+      "focus": "Debutantes and philanthropy",
+      "website_url": "https://piaristballnyc.com/",
+      "summary": "A formal New York winter ball with charitable purpose and old-world formality, the Piarist Ball still values manners, introductions, and the choreography of the room.",
+      "why_it_matters": "Debutante evenings operate on visible courtesy. Family standing, patronage, and generosity all sit close to the surface.",
+      "the_room": "Committee families, patrons, invited guests, and a room that notices grace before glamour.",
+      "dress_notes": [
+        "Treat the evening as formal ceremony first and party second.",
+        "Jewellery and eveningwear should read finished rather than theatrical.",
+        "Men should confirm whether tails are expected within their party."
+      ],
+      "what_to_get_right": [
+        "Stand promptly for formal entrances and toasts.",
+        "Introductions matter; do not skip over hosts to more useful guests.",
+        "Philanthropic purpose should be acknowledged with sincerity."
+      ],
+      "before_you_go": [
+        "Confirm seating and arrival timing with your host or table captain.",
+        "Review the evening programme before you enter the room.",
+        "Bring business cards only if the evening's tone genuinely supports them."
+      ],
+      "related_event_ids": [],
+      "featured": false,
+      "priority": 6
+    },
+    {
+      "id": "white-turf-st-moritz",
+      "slug": "white-turf-st-moritz",
+      "name": "White Turf St. Moritz",
+      "city": "St. Moritz",
+      "country": "Switzerland",
+      "venue": "Frozen Lake St. Moritz",
+      "start_month": "February",
+      "date_display": "Sundays 8, 15 & 22 February 2026",
+      "recurrence": "Annual",
+      "access_type": "Public racing grounds, hospitality, partner invitations",
+      "host_type": "White Turf",
+      "visibility": "Public with premium hospitality",
+      "dress_code": "Winter race-day dressing with real weather tolerance",
+      "tone": "Festive, sporting, distinctly alpine",
+      "guest_mix": "Racing crowd, St. Moritz residents, sponsors, weekend guests",
+      "focus": "Racing on ice",
+      "website_url": "https://www.whiteturf.ch/en/",
+      "summary": "White Turf combines racing, hospitality, and St. Moritz spectacle across three Sundays, with the frozen lake acting as both sporting venue and social stage.",
+      "why_it_matters": "The occasion rewards those who understand that proper race-day polish still has to survive cold air, snow, and long hours outdoors.",
+      "the_room": "Owners, punters, locals, sponsors, and visitors moving between outdoor viewing and warm hospitality tents.",
+      "dress_notes": [
+        "Dress for the lake first, the photographs second.",
+        "Tailored winter layers outperform anything delicate or impractical.",
+        "A good coat is part of the look, not an afterthought."
+      ],
+      "what_to_get_right": [
+        "Keep pathways clear around stands and hospitality entries.",
+        "Do not assume every invitation grants access to every enclosure.",
+        "A light touch with betting talk usually reads better than performance."
+      ],
+      "before_you_go": [
+        "Check which Sunday your hosts are attending; the series has rhythm.",
+        "Confirm whether you have hospitality or only grounds access.",
+        "Plan transport early if you are staying outside central St. Moritz."
+      ],
+      "related_event_ids": [],
+      "featured": false,
+      "priority": 7
+    },
+    {
+      "id": "vienna-opera-ball",
+      "slug": "vienna-opera-ball",
+      "name": "Vienna Opera Ball",
+      "city": "Vienna",
+      "country": "Austria",
+      "venue": "Vienna State Opera",
+      "start_month": "February",
+      "date_display": "12 February 2026",
+      "recurrence": "Annual",
+      "access_type": "Ticketed entry; boxes and loges by prior arrangement",
+      "host_type": "Vienna State Opera",
+      "visibility": "Public ticketed event with tiered access",
+      "dress_code": "White tie without exception",
+      "tone": "Grand, ceremonial, deeply traditional",
+      "guest_mix": "Austrian society, European aristocracy, diplomats, arts patrons",
+      "focus": "White tie and Viennese ball season",
+      "website_url": "https://www.opernball.at/en/the-ball/2026/",
+      "summary": "The Opera Ball remains one of the rare evenings in Europe where white tie is not nostalgic styling but live protocol, observed closely and enforced without apology.",
+      "why_it_matters": "It is a room in which correctness still outranks flair. Guests who understand the sequence of the evening move differently from those who merely bought a ticket.",
+      "the_room": "Austrian society, diplomatic figures, international guests, and a formal hierarchy that is legible long before midnight.",
+      "dress_notes": [
+        "Men need proper white tie, not a dinner jacket approximation.",
+        "Women should think floor-length elegance and composure rather than fashion theatre.",
+        "Gloves remain traditional and still read beautifully here."
+      ],
+      "what_to_get_right": [
+        "Be in place before the opening ceremony begins.",
+        "Keep movement to a minimum during formal sequences.",
+        "Treat the ball as a long evening and pace your energy accordingly."
+      ],
+      "before_you_go": [
+        "Confirm ticket type, entrance, and any box arrangements well in advance.",
+        "Arrange transport for late departure; the evening finishes slowly.",
+        "Check white tie details before travel rather than at the hotel mirror."
+      ],
+      "related_event_ids": [
+        "white-tie"
+      ],
+      "featured": true,
+      "priority": 8
+    },
+    {
+      "id": "cannes-film-festival",
+      "slug": "cannes-film-festival",
+      "name": "Cannes Film Festival",
+      "city": "Cannes",
+      "country": "France",
+      "venue": "Palais des Festivals and Riviera venues",
+      "start_month": "May",
+      "date_display": "12-23 May 2026",
+      "recurrence": "Annual",
+      "access_type": "Accreditation, invitation, ticketed peripheral events, hospitality",
+      "host_type": "Festival de Cannes",
+      "visibility": "Badge and invitation ecosystem",
+      "dress_code": "Black tie at night; polished Riviera day dressing by day",
+      "tone": "International, watchful, glamorous",
+      "guest_mix": "Film talent, executives, publicists, patrons, luxury partners",
+      "focus": "Cinema and Riviera society",
+      "website_url": "https://www.festival-cannes.com/",
+      "summary": "Cannes is a festival, a market, and a social test conducted under Mediterranean light. Proper conduct is mostly about timing, dress discipline, and reading which invitation actually matters.",
+      "why_it_matters": "The red carpet is the visible part. The real calendar is built from screenings, lunches, yacht appointments, and dinners that run on hierarchy rather than noise.",
+      "the_room": "Talent, executives, journalists, patrons, and luxury-brand guests split between official venues and a second city of private hospitality.",
+      "dress_notes": [
+        "Evening dress should be formal enough for the carpet without becoming costume.",
+        "Daytime Riviera dressing works best when clean, calm, and heat-aware.",
+        "Shoes matter because much of Cannes still involves walking."
+      ],
+      "what_to_get_right": [
+        "Understand the distinction between a screening invite, a party invite, and actual access.",
+        "Do not hold doorways, staircases, or arrival lines for photographs.",
+        "Keep networking conversational; everyone else is also being watched."
+      ],
+      "before_you_go": [
+        "Map the Croisette and travel times between meetings before arriving.",
+        "Keep credentials, tickets, and invitations organised by day part.",
+        "Book dinners early; last-minute Cannes is mostly wishful thinking."
+      ],
+      "related_event_ids": [],
+      "featured": true,
+      "priority": 9
+    },
+    {
+      "id": "monaco-grand-prix",
+      "slug": "monaco-grand-prix",
+      "name": "Monaco Grand Prix",
+      "city": "Monaco",
+      "country": "Monaco",
+      "venue": "Circuit de Monaco and harbour hospitality",
+      "start_month": "June",
+      "date_display": "4-7 June 2026",
+      "recurrence": "Annual",
+      "access_type": "Grandstand tickets, terraces, yacht hospitality, private hosting",
+      "host_type": "Automobile Club de Monaco",
+      "visibility": "Public with steep hospitality tiers",
+      "dress_code": "Smart Riviera dressing by day; polished eveningwear after dark",
+      "tone": "Fast, visible, socially stratified",
+      "guest_mix": "Racing principals, yacht hosts, luxury clients, celebrities, long-time Monaco regulars",
+      "focus": "Formula 1 hospitality",
+      "website_url": "https://acm.mc/en/epreuves/formula-1-grand-prix-de-monaco/",
+      "summary": "Monaco Grand Prix weekend is as much about terraces, tenders, and invitations as it is about racing. The calendar rewards precision more than exuberance.",
+      "why_it_matters": "Monaco compresses hierarchy into a small geography. Which balcony, yacht, or dinner you are on says more than how loudly you arrive.",
+      "the_room": "Team partners, yacht hosts, financiers, luxury clients, and guests navigating a weekend built around visibility and access.",
+      "dress_notes": [
+        "Daywear should feel sharp in heat and survive movement between venues.",
+        "Evening looks need polish without overt theatre.",
+        "Footwear should handle docks, tenders, and stone streets."
+      ],
+      "what_to_get_right": [
+        "Treat yacht invitations as exact, not transferable.",
+        "Be concise when meeting hosts; everyone is overscheduled.",
+        "Never make crew invisible. Good manners aboard are remembered."
+      ],
+      "before_you_go": [
+        "Confirm every venue with a precise host name and arrival route.",
+        "Plan tender timing if the harbour is part of your schedule.",
+        "Book tables and cars well ahead; Monaco is capacity-constrained that week."
+      ],
+      "related_event_ids": [],
+      "featured": false,
+      "priority": 10
+    },
+    {
+      "id": "royal-ascot",
+      "slug": "royal-ascot",
+      "name": "Royal Ascot",
+      "city": "Ascot",
+      "country": "United Kingdom",
+      "venue": "Ascot Racecourse",
+      "start_month": "June",
+      "date_display": "16-20 June 2026",
+      "recurrence": "Annual",
+      "access_type": "Public enclosures; Royal Enclosure by sponsored membership application",
+      "host_type": "Ascot under royal patronage",
+      "visibility": "Public with tiered enclosures",
+      "dress_code": "Morning dress in Royal Enclosure; rules are actively enforced",
+      "tone": "Ceremonial, festive, impeccably English",
+      "guest_mix": "English society, racing professionals, international guests",
+      "focus": "British social season",
+      "website_url": "https://www.ascot.com/royal-ascot-2026",
+      "summary": "Five days of racing under royal patronage, Royal Ascot remains one of the few public occasions in Britain where dress discipline still has real consequence.",
+      "why_it_matters": "The distinction between being admitted and appearing correct is especially sharp at Ascot. Enclosure etiquette still functions as a social language.",
+      "the_room": "Society regulars, racing insiders, and international guests divided by enclosure, sponsorship, and generations of familiarity.",
+      "dress_notes": [
+        "Read your enclosure rules rather than relying on received wisdom.",
+        "A hat is not optional where the code says hat.",
+        "Morning dress should be correct, not theatrical."
+      ],
+      "what_to_get_right": [
+        "Be in place before the Royal Procession each afternoon.",
+        "Keep your conduct calibrated to the enclosure you are in.",
+        "Do not treat the Royal Enclosure as a costume party with champagne."
+      ],
+      "before_you_go": [
+        "Confirm membership or badge arrangements early.",
+        "Arrange transport and accommodation well in advance.",
+        "Check weather, but do not use weather as an excuse to ignore the code."
+      ],
+      "related_event_ids": [
+        "morning-dress"
+      ],
+      "featured": true,
+      "priority": 11
+    },
+    {
+      "id": "munich-opera-festival",
+      "slug": "munich-opera-festival",
+      "name": "Munich Opera Festival",
+      "city": "Munich",
+      "country": "Germany",
+      "venue": "Bayerische Staatsoper and festival venues",
+      "start_month": "June",
+      "date_display": "18 June - 31 July 2026",
+      "recurrence": "Annual",
+      "access_type": "Public ticketing, patron access, invited receptions",
+      "host_type": "Bayerische Staatsoper",
+      "visibility": "Public with patron layers",
+      "dress_code": "Elegant evening dress; black tie only where specified",
+      "tone": "Cultured, patron-led, summer formal",
+      "guest_mix": "Opera patrons, visiting cultural guests, Munich society, international audiences",
+      "focus": "Opera and summer culture",
+      "website_url": "https://www.staatsoper.de/en/munich-opera-festival",
+      "summary": "Munich's opera festival offers weeks of serious cultural programming with a social calendar built around performances, receptions, and long-established patron habits.",
+      "why_it_matters": "Unlike a single gala, the festival rewards consistency. One can appear correctly over a season or one can look as though one dressed only for opening night.",
+      "the_room": "Patrons, collectors, local society, and visitors who still treat summer opera as part of their annual route through Europe.",
+      "dress_notes": [
+        "Evening elegance should feel considered but not stiff.",
+        "Save black tie for invitations that actually require it.",
+        "A beautiful coat or wrap still matters for late exits."
+      ],
+      "what_to_get_right": [
+        "Arrive early enough to settle before the house lights go down.",
+        "Use intervals for conversation, not for noisy repositioning.",
+        "If hosted, follow your host's lead on post-performance movement."
+      ],
+      "before_you_go": [
+        "Check the exact venue; the festival uses more than one stage.",
+        "Book restaurants and transport around curtain times.",
+        "Read the running time before accepting a late dinner."
+      ],
+      "related_event_ids": [],
+      "featured": false,
+      "priority": 12
+    },
+    {
+      "id": "wimbledon",
+      "slug": "wimbledon",
+      "name": "The Championships, Wimbledon",
+      "city": "London",
+      "country": "United Kingdom",
+      "venue": "All England Lawn Tennis Club",
+      "start_month": "June",
+      "date_display": "29 June - 12 July 2026",
+      "recurrence": "Annual",
+      "access_type": "Public tickets, debentures, hospitality, private hosting",
+      "host_type": "All England Lawn Tennis Club",
+      "visibility": "Public with significant hospitality tiers",
+      "dress_code": "Polished summer dressing; tailored and understated",
+      "tone": "Traditional, international, quietly competitive",
+      "guest_mix": "Tennis patrons, corporate hosts, London society, global visitors",
+      "focus": "Tennis and summer hospitality",
+      "website_url": "https://www.wimbledon.com/",
+      "summary": "Wimbledon remains the most mannered Grand Slam, where queues, debentures, and private hosting all coexist under a distinctly English standard of composure.",
+      "why_it_matters": "It is a public event with private-club instincts. Ease, moderation, and correct summer dressing carry more weight than overt luxury.",
+      "the_room": "Debenture holders, hospitality guests, tennis devotees, and a broad international crowd that still reads local cues.",
+      "dress_notes": [
+        "Summer tailoring and dresses should feel neat, not beach-adjacent.",
+        "A blazer or light layer is often useful even on warm days.",
+        "Keep bags compact and practical for security and seating."
+      ],
+      "what_to_get_right": [
+        "Respect the pace and patience of queues if you are using them.",
+        "Keep movement and conversation low during play.",
+        "Club areas are social spaces, but not loud ones."
+      ],
+      "before_you_go": [
+        "Know your ticket type and gate before arrival.",
+        "Plan your day around transport and security checks.",
+        "If hosted, confirm whether lunch, tea, or private hospitality is included."
+      ],
+      "related_event_ids": [],
+      "featured": false,
+      "priority": 13
+    },
+    {
+      "id": "henley-royal-regatta",
+      "slug": "henley-royal-regatta",
+      "name": "Henley Royal Regatta",
+      "city": "Henley-on-Thames",
+      "country": "United Kingdom",
+      "venue": "Henley Reach, River Thames",
+      "start_month": "June",
+      "date_display": "30 June - 5 July 2026",
+      "recurrence": "Annual",
+      "access_type": "Public enclosures, Stewards' Enclosure, private hospitality",
+      "host_type": "Henley Royal Regatta",
+      "visibility": "Public with strong enclosure distinctions",
+      "dress_code": "Summer club dressing; jackets and ties still matter in the right places",
+      "tone": "Traditional, social, riverbank formal",
+      "guest_mix": "Rowing families, club members, London society, corporate hosts",
+      "focus": "Rowing and riverside social season",
+      "website_url": "https://www.hrr.co.uk/",
+      "summary": "Henley blends competitive rowing with one of the most recognisable codes of the English summer, where the riverbank doubles as clubland in daylight.",
+      "why_it_matters": "Henley is not about dramatic display. It is about understanding enclosure codes, river etiquette, and the art of appearing entirely at ease in heat and crowds.",
+      "the_room": "Stewards, rowing alumni, family groups, hosts, and regulars who can tell immediately whether a guest understands the setting.",
+      "dress_notes": [
+        "Check enclosure rules, especially for jackets, ties, hems, and hats.",
+        "Linen is welcome; sloppiness is not.",
+        "Choose footwear that survives grass and towpaths."
+      ],
+      "what_to_get_right": [
+        "Stand clear when crews and officials are moving through tight spaces.",
+        "Do not treat the riverbank as if it were a festival field.",
+        "Observe the tone of your enclosure before raising the volume."
+      ],
+      "before_you_go": [
+        "Confirm your enclosure and guest arrangements before the day begins.",
+        "Book riverside lunches and transport early.",
+        "Bring weather cover that does not ruin the rest of the look."
+      ],
+      "related_event_ids": [],
+      "featured": false,
+      "priority": 14
+    },
+    {
+      "id": "bayreuth-festival",
+      "slug": "bayreuth-festival",
+      "name": "Bayreuth Festival",
+      "city": "Bayreuth",
+      "country": "Germany",
+      "venue": "Festspielhaus",
+      "start_month": "July",
+      "date_display": "24 July - 26 August 2026",
+      "recurrence": "Annual",
+      "access_type": "Public tickets, patron allocations, invited receptions",
+      "host_type": "Bayreuth Festival",
+      "visibility": "Public with long-standing patron culture",
+      "dress_code": "Formal evening dressing with cultural sobriety",
+      "tone": "Devoted, ceremonial, culturally serious",
+      "guest_mix": "Opera devotees, patrons, cultural figures, German and international guests",
+      "focus": "Festival and patrons' season",
+      "website_url": "https://www.bayreuther-festspiele.de/en/programme/programme/",
+      "summary": "Bayreuth is pilgrimage as much as festival. Guests arrive for Wagner, but the code of conduct is really about reverence for the institution and the room around it.",
+      "why_it_matters": "Bayreuth rewards cultural seriousness and punishes affectation. It is one of the few places where knowing the room is inseparable from knowing the work.",
+      "the_room": "Patrons, music lovers, officials, and guests who still treat attendance as an annual rite.",
+      "dress_notes": [
+        "Think elegant evening dress with sobriety rather than performance.",
+        "Comfort matters because programmes can be long.",
+        "Formal shoes should still survive steep steps and summer heat."
+      ],
+      "what_to_get_right": [
+        "Arrive with time to spare; Bayreuth does not suit rushed entrances.",
+        "Intervals are for measured conversation, not loud verdicts.",
+        "Respect the ritual quality of the evening even if your hosts appear relaxed."
+      ],
+      "before_you_go": [
+        "Check the work, running time, and seating before the day.",
+        "Book dining around performance length rather than hope.",
+        "Arrange transport back from the Festspielhaus in advance."
+      ],
+      "related_event_ids": [],
+      "featured": false,
+      "priority": 15
+    },
+    {
+      "id": "monaco-yacht-show",
+      "slug": "monaco-yacht-show",
+      "name": "Monaco Yacht Show",
+      "city": "Monaco",
+      "country": "Monaco",
+      "venue": "Port Hercule",
+      "start_month": "September",
+      "date_display": "23-26 September 2026",
+      "recurrence": "Annual",
+      "access_type": "Trade passes, buyer registration, hospitality, invitations",
+      "host_type": "Monaco Yacht Show",
+      "visibility": "Trade and invitation-led with public access layers",
+      "dress_code": "Marine-aware smart dressing; polished but mobile",
+      "tone": "Commercial, polished, high-net-worth",
+      "guest_mix": "Brokers, owners, shipyards, family offices, luxury partners",
+      "focus": "Superyacht and brokerage circuit",
+      "website_url": "https://www.monacoyachtshow.com/en",
+      "summary": "The Monaco Yacht Show is a sales floor disguised as Riviera theatre. Access, punctuality, and restraint matter more than any attempt to perform wealth.",
+      "why_it_matters": "A yacht show is built around introductions and trust. Guests who ignore crew, timing, or deck etiquette make themselves memorable for the wrong reasons.",
+      "the_room": "Brokers, principals, family offices, designers, shipyard teams, and hospitality partners conducting business at social volume.",
+      "dress_notes": [
+        "Choose pieces that move easily between pontoons and meetings.",
+        "Heels, bags, and jackets need to work on decks and docks.",
+        "Keep the palette calm; the harbour already supplies the spectacle."
+      ],
+      "what_to_get_right": [
+        "Never board without explicit invitation from the host team.",
+        "Treat crew with the same courtesy you offer owners and brokers.",
+        "Keep meetings on time; every serious guest is running a schedule."
+      ],
+      "before_you_go": [
+        "Map yacht visits carefully because walking times are deceptive.",
+        "Carry credentials visibly and keep host names straight.",
+        "Book lunches and late drinks early; Monaco fills around the show."
+      ],
+      "related_event_ids": [],
+      "featured": false,
+      "priority": 16
+    },
+    {
+      "id": "singapore-grand-prix",
+      "slug": "singapore-grand-prix",
+      "name": "Singapore Grand Prix",
+      "city": "Singapore",
+      "country": "Singapore",
+      "venue": "Marina Bay Street Circuit",
+      "start_month": "October",
+      "date_display": "9-11 October 2026",
+      "recurrence": "Annual",
+      "access_type": "Grandstand, hospitality, suites, invited hosting",
+      "host_type": "Formula 1 Singapore Grand Prix",
+      "visibility": "Public with strong hospitality tiers",
+      "dress_code": "Heat-smart evening dressing with city polish",
+      "tone": "International, humid, after-dark social",
+      "guest_mix": "Regional business leaders, F1 partners, hospitality guests, international travellers",
+      "focus": "Night-race hospitality",
+      "website_url": "https://singaporegp.sg/",
+      "summary": "Singapore's night race is one of the cleanest combinations of serious hospitality and city-state precision on the Formula 1 calendar.",
+      "why_it_matters": "Guests who dress for the humidity, respect timing, and move efficiently through hospitality zones stand out for the right reasons.",
+      "the_room": "Business leaders, sponsor guests, regional hosts, and an international crowd used to high service standards.",
+      "dress_notes": [
+        "Dress for heat first and for photography second.",
+        "Tailoring should breathe; stiffness looks worse by the hour.",
+        "Evening polish works best when it remains functional."
+      ],
+      "what_to_get_right": [
+        "Move early between zones; the city crowds quickly after dusk.",
+        "Be exact about guest credentials and suite access.",
+        "Hospitality staff in Singapore are highly professional; treat them accordingly."
+      ],
+      "before_you_go": [
+        "Check gate, zone, and transport arrangements before leaving the hotel.",
+        "Keep hydration and weather in mind when dressing.",
+        "Plan late suppers around traffic rather than against it."
+      ],
+      "related_event_ids": [],
+      "featured": false,
+      "priority": 17
+    },
+    {
+      "id": "pad-london",
+      "slug": "pad-london",
+      "name": "PAD London",
+      "city": "London",
+      "country": "United Kingdom",
+      "venue": "Berkeley Square, Mayfair",
+      "start_month": "October",
+      "date_display": "13-18 October 2026",
+      "recurrence": "Annual",
+      "access_type": "Public tickets, collectors' previews, invited events",
+      "host_type": "PAD Fairs",
+      "visibility": "Public fair with collectors' layers",
+      "dress_code": "Mayfair day dressing with collector polish",
+      "tone": "Elegant, design-led, conversational",
+      "guest_mix": "Collectors, dealers, designers, advisers, social buyers",
+      "focus": "Design fair week",
+      "website_url": "https://www.padesignart.com/en/london/",
+      "summary": "PAD brings design, decorative arts, and collector conversation into a setting that rewards taste, patience, and well-judged daytime polish.",
+      "why_it_matters": "Art-fair manners are largely about not treating every stand as a backdrop or every dealer as a shop assistant.",
+      "the_room": "Collectors, advisers, dealers, decorators, and guests who understand that looking carefully is a social act as well as an aesthetic one.",
+      "dress_notes": [
+        "Daywear should feel polished enough for Mayfair but easy enough for long hours on foot.",
+        "Quiet tailoring and excellent accessories read particularly well here.",
+        "A heavy-logo approach feels out of place among serious collectors."
+      ],
+      "what_to_get_right": [
+        "Let dealers finish with clients before stepping into a conversation.",
+        "Ask before photographing works or interiors.",
+        "Do not block stands with social chatter if others are viewing."
+      ],
+      "before_you_go": [
+        "Book preview access early if you want first look at strong pieces.",
+        "Review exhibitors before you arrive; it sharpens the day considerably.",
+        "Plan lunches and meetings around Frieze week traffic."
+      ],
+      "related_event_ids": [],
+      "featured": false,
+      "priority": 18
+    },
+    {
+      "id": "frieze-london-and-frieze-masters",
+      "slug": "frieze-london-and-frieze-masters",
+      "name": "Frieze London & Frieze Masters",
+      "city": "London",
+      "country": "United Kingdom",
+      "venue": "The Regent's Park",
+      "start_month": "October",
+      "date_display": "14-18 October 2026",
+      "recurrence": "Annual",
+      "access_type": "Public tickets, previews, VIP access, invited events",
+      "host_type": "Frieze",
+      "visibility": "Public fairs with VIP tiers",
+      "dress_code": "Polished city daywear with gallery-floor practicality",
+      "tone": "Contemporary, international, socially strategic",
+      "guest_mix": "Collectors, galleries, curators, patrons, luxury partners",
+      "focus": "Contemporary and historic art week",
+      "website_url": "https://www.frieze.com/fairs/frieze-london",
+      "summary": "Frieze week turns London into a dense circuit of fairs, dinners, previews, and private viewings, with Regent's Park as the obvious centre of gravity.",
+      "why_it_matters": "Art-fair etiquette is about looking, listening, and not mistaking visibility for importance. Good guests leave room for dealers to do their work.",
+      "the_room": "Collectors, galleries, advisers, museum figures, and an outer ring of social attendees trying not to look like one.",
+      "dress_notes": [
+        "Think urban polish that survives long hours and changing weather.",
+        "Clothes should not compete with the art or the room.",
+        "Footwear matters more than anyone admits."
+      ],
+      "what_to_get_right": [
+        "Preview access is a privilege; use it with some calm.",
+        "Do not photograph people or works casually on dealer stands.",
+        "Keep conversations with dealers concise when traffic is heavy."
+      ],
+      "before_you_go": [
+        "Build a route; Frieze week rewards planning.",
+        "Coordinate lunches and dinners well ahead because the city is full.",
+        "If collecting seriously, review exhibitor lists before arrival."
+      ],
+      "related_event_ids": [],
+      "featured": false,
+      "priority": 19
+    },
+    {
+      "id": "abu-dhabi-grand-prix",
+      "slug": "abu-dhabi-grand-prix",
+      "name": "Abu Dhabi Grand Prix",
+      "city": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "venue": "Yas Marina Circuit",
+      "start_month": "December",
+      "date_display": "4-6 December 2026",
+      "recurrence": "Annual",
+      "access_type": "Grandstand tickets, paddock hospitality, yacht and suite hosting",
+      "host_type": "Formula 1 Abu Dhabi Grand Prix",
+      "visibility": "Public with elite hospitality layers",
+      "dress_code": "Warm-weather evening polish with hospitality precision",
+      "tone": "Season-finale, polished, high-energy",
+      "guest_mix": "F1 guests, luxury clients, regional hosts, international travellers",
+      "focus": "Season-finale hospitality",
+      "website_url": "https://www.abudhabigp.com/en/",
+      "summary": "Abu Dhabi closes the Formula 1 year with a hospitality calendar that stretches well beyond the track and rewards guests who can move through a busy weekend without looking hurried.",
+      "why_it_matters": "Final-race weekends gather more expectation than most. The room values polish, punctuality, and a strong sense of who is hosting whom.",
+      "the_room": "Team guests, principals, luxury clients, regional hosts, and a season-ending crowd that expects smoothness as standard.",
+      "dress_notes": [
+        "Keep evening looks refined and climate-aware.",
+        "Choose footwear that works across circuit, suite, and after-party settings.",
+        "Polish beats excess, especially in sponsor areas."
+      ],
+      "what_to_get_right": [
+        "Treat credentials and invitation tiers carefully; access is precise.",
+        "Be on time for hosted arrivals, especially if boats or shuttles are involved.",
+        "Keep conversations light unless the host sets a more serious tone."
+      ],
+      "before_you_go": [
+        "Map the circuit and hospitality entries before race weekend begins.",
+        "Confirm transport details for evening events around Yas Marina.",
+        "Build in recovery time; the social schedule runs late."
+      ],
+      "related_event_ids": [],
+      "featured": false,
+      "priority": 20
     }
   ],
   "dining_topics": [
     {
       "id": "cutlery-rules",
-      "title": "Cutlery & Place Settings",
+      "title": "Cutlery and Place Settings",
       "tagline": "Reading the table before the first course",
       "sections": [
         {
           "heading": "The Outside-In Rule",
-          "body": "Work from the outermost cutlery inward with each course. The implements placed furthest from the plate are used first. If you are uncertain which utensil to use, observe the host."
+          "body": "Work from the outermost cutlery inward. Implements furthest from the plate are used first. When uncertain, observe the host and follow."
         },
         {
           "heading": "The Resting Position",
-          "body": "To signal you are resting between bites, place the knife and fork in an inverted V on the plate — tines down. Do not place cutlery on the tablecloth once used."
+          "body": "Between bites, place knife and fork in an inverted V on the plate, tines down. Once used, cutlery does not return to the tablecloth."
         },
         {
           "heading": "The Finished Position",
-          "body": "To indicate you have finished a course, place the knife and fork together diagonally across the plate — handles at the lower right, at approximately the four o'clock position."
+          "body": "Knife and fork placed together diagonally, handles at four o'clock, signals the course is complete."
         },
         {
           "heading": "The Fish Knife",
-          "body": "If a fish knife and fork are provided, use them for the fish course only. The fish knife has a broad, flat blade and should not be used to cut meat."
+          "body": "The fish knife and fork are reserved for the fish course. The broad blade is not intended for meat."
         }
       ]
     },
     {
       "id": "seating-protocol",
       "title": "Seating Protocol",
-      "tagline": "Placement, precedence, and the question of being seated",
+      "tagline": "Placement and precedence at the formal table",
       "sections": [
         {
           "heading": "Seating by the Host",
-          "body": "At formal dinners, the host assigns seats. Do not choose or rearrange your seat. Place cards are placed above the central cutlery or on the napkin."
+          "body": "At formal dinners, the host arranges all seats. Place cards sit above the central cutlery or on the folded napkin. Do not rearrange."
         },
         {
           "heading": "Precedence",
-          "body": "The guest of honour sits to the right of the host. The second most senior guest sits to the left. Partners of guests are typically seated apart to encourage broader conversation."
+          "body": "The guest of honour sits to the host's right, the second most senior to the left. Partners are customarily seated apart to encourage the table as a whole."
         },
         {
           "heading": "Being Seated",
-          "body": "Remain standing until the host invites guests to be seated. At formal dinners, gentlemen may assist the lady to their right by holding or drawing back her chair."
+          "body": "Remain standing until invited to sit. Gentlemen may assist the lady on their right by drawing back her chair."
         },
         {
           "heading": "Leaving the Table",
-          "body": "Do not leave the table during a course except in genuine necessity. Alert the host quietly. At formal banquets, leaving during a toast is considered a significant discourtesy."
+          "body": "Leave only in genuine necessity, and alert the host quietly. Departing during a toast is a discourtesy that will be noticed."
         }
       ]
     },
     {
       "id": "wine-service",
-      "title": "Wine & Beverage Service",
+      "title": "Wine Service",
       "tagline": "Accepting, declining, and the pace of the table",
       "sections": [
         {
           "heading": "Accepting Wine",
-          "body": "If you choose not to drink, it is entirely acceptable to allow your glass to be filled and simply not drink from it. Turning the glass upside down is considered brusque. A quiet 'no thank you' to the sommelier suffices."
+          "body": "Allow the glass to be filled if you do not intend to drink. A quiet word to the sommelier suffices. Inverting the glass is unnecessary and reads as theatrical."
         },
         {
           "heading": "Tasting the Wine",
-          "body": "When a sommelier presents the bottle for your approval, the host (or host's representative) tastes. The purpose is to check for a wine fault, not to express personal preference. Do not reject a wine simply because you dislike the grape."
+          "body": "The host tastes to check for fault, not to express preference. Rejecting a sound wine on grounds of personal taste is not appropriate."
         },
         {
           "heading": "Refills",
-          "body": "At formal dinners, allow service staff to refill glasses. Reaching across to fill another's glass is generally not done in formal settings."
+          "body": "Service staff manage refills. Reaching across to fill another guest's glass is not done at a formal table."
         },
         {
           "heading": "Order of Service",
-          "body": "Wines are typically served in order from dry to sweet and light to full. Champagne may open the meal or be served throughout. Dessert wines accompany the pudding course."
+          "body": "Dry before sweet, light before full. Champagne may open the meal or accompany it throughout. Dessert wines follow the pudding course."
         }
       ]
     },
     {
       "id": "table-conversation",
       "title": "Table Conversation",
-      "tagline": "The art of conversation at a formal dinner",
+      "tagline": "Exchange at the formal dinner",
       "sections": [
         {
           "heading": "Turning the Table",
-          "body": "At formal dinners with a hostess, guests traditionally follow her lead in turning conversation: she speaks first to the guest on her right, then at a given point shifts to the guest on her left. Guests observe this and do the same."
+          "body": "The hostess sets the direction. She addresses the guest on her right first, then turns left. Guests observe and follow her lead at the appropriate moment."
         },
         {
           "heading": "Topics to Embrace",
-          "body": "Travel, the arts, literature, history, current cultural events, and the occasion itself are universally safe and engaging topics. Ask questions; show genuine curiosity."
+          "body": "Travel, the arts, literature, history and the occasion itself. Ask questions; listen with genuine interest."
         },
         {
           "heading": "Topics to Avoid",
-          "body": "Religion, partisan politics, personal finances, health matters, and contentious social debates are best avoided unless raised explicitly by the other person. Even then, tread lightly."
+          "body": "Religion, partisan politics, personal finances, health and social controversy. If raised by others, proceed with restraint."
         },
         {
           "heading": "Interrupting",
-          "body": "Do not interrupt. If a conversation partner speaks at length, listen attentively and respond to what has been said rather than redirecting immediately to your own subject."
+          "body": "Do not interrupt. When another speaks at length, listen fully and respond to what was said rather than steering the conversation elsewhere."
         }
       ]
     },
     {
       "id": "napkin-conduct",
       "title": "The Table Napkin",
-      "tagline": "A small detail that reveals much",
+      "tagline": "A small matter that is noticed",
       "sections": [
         {
           "heading": "Placing the Napkin",
-          "body": "The napkin is placed on the lap after the host has placed theirs — this signals that the meal is beginning. Never tuck the napkin into a collar or waistband."
+          "body": "Place the napkin on the lap once the host has done so. Never tuck it into a collar or waistband."
         },
         {
           "heading": "Using the Napkin",
-          "body": "The napkin is used to dab, not wipe, the lips. It is also used discreetly to remove food from the mouth when necessary. Pat, do not scrub."
+          "body": "The napkin dabs the lips; it does not wipe them. Use it discreetly when required."
         },
         {
           "heading": "Leaving the Table",
-          "body": "If you leave the table temporarily during dinner, place the napkin loosely on the chair seat, never on the table. On the table implies the meal is over."
+          "body": "When leaving temporarily, place the napkin loosely on the chair seat. On the table signals the meal is finished."
         },
         {
           "heading": "End of Meal",
-          "body": "At the end of the meal, place the napkin loosely — not folded neatly — to the left of the place setting. Folding it precisely implies the meal was not satisfactory."
+          "body": "At the close, place the napkin loosely to the left of the setting. A neatly refolded napkin implies the hospitality was not to one's satisfaction."
         }
       ]
     },
     {
       "id": "bread-and-butter",
-      "title": "Bread, Butter & Rolls",
-      "tagline": "Bread baskets and small courtesies",
+      "title": "Bread and Rolls",
+      "tagline": "Small courtesies at the bread basket",
       "sections": [
         {
           "heading": "Breaking, Not Cutting",
-          "body": "Bread rolls are broken into small pieces by hand, not cut with a knife. Butter one piece at a time before eating it; do not butter an entire roll at once."
+          "body": "Rolls are broken by hand into small pieces, not cut. Butter each piece individually before eating it."
         },
         {
           "heading": "The Bread Plate",
-          "body": "The bread plate is always on your left. If uncertain, remember: food on the left, drink on the right. BMW — Bread, Meal, Water — from left to right."
+          "body": "The bread plate sits to your left. When in doubt: food left, drink right. The mnemonic BMW serves well — Bread, Meal, Water."
         },
         {
           "heading": "Timing",
-          "body": "Bread is typically available from the start but should not become a substitute for the courses. Do not eat so much bread that it impairs your appetite for the main courses."
+          "body": "Bread should not displace the courses that follow. Take modestly; the kitchen has more to offer."
         }
       ]
     },
     {
       "id": "common-dining-mistakes",
       "title": "Common Dining Mistakes",
-      "tagline": "What to notice — and quietly correct",
+      "tagline": "What is noticed, and by whom",
       "sections": [
         {
           "heading": "At the Start",
-          "body": "Beginning to eat before the host has been served or has invited guests to begin. Unfolding the napkin before the host does. Rearranging the place setting."
+          "body": "Eating before the host is served or has invited guests to begin. Unfolding the napkin before the host. Adjusting or rearranging the place setting."
         },
         {
           "heading": "During the Meal",
-          "body": "Elbows on the table while eating. Reaching across another guest for dishes. Seasoning food before tasting it. Blowing on hot food. Speaking with a full mouth."
+          "body": "Elbows on the table while eating. Reaching across a neighbour. Seasoning without tasting first. Blowing on hot food. Speaking with a full mouth."
         },
         {
           "heading": "With Cutlery",
-          "body": "Holding a knife like a pen or a fork like a shovel. Scraping the plate. Placing used cutlery back on the tablecloth. Using the wrong utensil for a course."
+          "body": "Gripping the knife as one would a pen, or the fork as a shovel. Scraping the plate. Returning used cutlery to the tablecloth. Selecting the wrong utensil."
         },
         {
           "heading": "With Drink",
-          "body": "Clinking glasses forcefully. Drinking with food in the mouth. Holding a wine glass by the bowl (warming the wine). Drinking before a toast has been completed."
+          "body": "Clinking glasses with force. Drinking with food in the mouth. Cradling the wine glass by the bowl. Drinking before the toast is finished."
         },
         {
           "heading": "At the Close",
-          "body": "Rising before the host has risen. Stacking plates or clearing your own place setting. Applying lipstick or grooming at the table. Leaving immediately after the final course without conversation."
+          "body": "Rising before the host. Stacking plates or clearing one's own setting. Attending to grooming at the table. Departing without conversation once the final course is done."
         }
       ]
     }
@@ -499,7 +1306,7 @@
       "role": "Reigning monarch",
       "writtenForm": "To His Majesty The King",
       "spokenForm": "Your Majesty",
-      "usageNote": "After the initial address as 'Your Majesty', subsequent references in the same conversation may use 'Sir' (for a king) or 'Ma'am' (rhyming with 'jam', for a queen). Do not extend your hand unless the sovereign offers theirs first."
+      "usageNote": "After the initial 'Your Majesty', 'Sir' (for a king) or 'Ma'am' (rhyming with 'jam', for a queen) thereafter. Do not extend your hand unless offered first."
     },
     {
       "id": "address-prince",
@@ -508,124 +1315,115 @@
       "role": "Son or grandson of the sovereign",
       "writtenForm": "To His Royal Highness The Prince of Wales",
       "spokenForm": "Your Royal Highness",
-      "usageNote": "After the initial 'Your Royal Highness', subsequent address is 'Sir'. Bow the head (men) or curtsy (women) on first greeting and on departure."
+      "usageNote": "Thereafter 'Sir'. Gentlemen bow the head; ladies curtsy on first greeting and departure."
     },
     {
       "id": "address-duke",
       "category": "royalty",
       "title": "Duke",
       "role": "Senior peer of the realm",
-      "writtenForm": "His Grace the Duke of [Place]",
+      "writtenForm": "His Grace the Duke of Norfolk",
       "spokenForm": "Your Grace",
-      "usageNote": "After the initial 'Your Grace', 'Duke' is acceptable in continued conversation. The wife of a Duke is a Duchess, addressed as 'Your Grace' and thereafter 'Duchess'."
+      "usageNote": "Thereafter 'Duke'. The Duchess is likewise 'Your Grace', then 'Duchess'."
     },
     {
       "id": "address-earl",
       "category": "royalty",
-      "title": "Earl / Countess",
+      "title": "Earl or Countess",
       "role": "Mid-ranking hereditary peer",
-      "writtenForm": "The Right Honourable the Earl of [Place]",
-      "spokenForm": "Lord [Place]",
-      "usageNote": "An Earl is styled 'Lord [Earldom]' in speech; a Countess is 'Lady [Earldom]'. Children of an Earl may hold courtesy titles."
+      "writtenForm": "The Right Honourable the Earl of Devon",
+      "spokenForm": "Lord Devon / Lady Devon",
+      "usageNote": "An Earl is 'Lord [Earldom]' in speech; Countess becomes 'Lady [Earldom]'. Children hold courtesy titles."
     },
     {
       "id": "address-archbishop",
       "category": "clergy",
-      "title": "Archbishop",
-      "role": "Senior bishop of a church province",
-      "writtenForm": "The Most Reverend and Right Honourable the Lord Archbishop of [See]",
+      "title": "Archbishop of Canterbury",
+      "role": "Primate of All England",
+      "writtenForm": "The Most Reverend and Right Honourable the Lord Archbishop of Canterbury",
       "spokenForm": "Your Grace",
-      "usageNote": "The Archbishop of Canterbury and the Archbishop of York are addressed as 'Your Grace'. Other Anglican archbishops may vary by province."
+      "usageNote": "Likewise the Archbishop of York. Provincial usage may differ."
     },
     {
       "id": "address-bishop",
       "category": "clergy",
-      "title": "Bishop",
-      "role": "Diocesan or suffragan bishop",
-      "writtenForm": "The Right Reverend the Lord Bishop of [Diocese]",
-      "spokenForm": "Bishop [Surname]",
-      "usageNote": "When introducing or addressing a bishop, 'Bishop [Surname]' is correct in both formal and informal contexts after initial address."
+      "title": "Diocesan Bishop",
+      "role": "Ordinary of the diocese",
+      "writtenForm": "The Right Reverend the Lord Bishop of London",
+      "spokenForm": "Bishop London",
+      "usageNote": "'Bishop [Surname]' suffices after formal introduction."
     },
     {
       "id": "address-cardinal",
       "category": "clergy",
       "title": "Cardinal",
-      "role": "Senior prince of the Roman Catholic Church",
-      "writtenForm": "His Eminence [Name] Cardinal [Surname]",
+      "role": "Prince of the Roman Church",
+      "writtenForm": "His Eminence Cardinal Vincent Nichols",
       "spokenForm": "Your Eminence",
-      "usageNote": "A Cardinal is always 'Your Eminence'. When writing, place the given name before 'Cardinal' and the surname after."
+      "usageNote": "Given name precedes 'Cardinal'; family name follows."
     },
     {
       "id": "address-ambassador",
       "category": "diplomatic",
       "title": "Ambassador",
-      "role": "Head of a diplomatic mission",
-      "writtenForm": "His / Her Excellency [Full Name], Ambassador of [Country]",
+      "role": "Head of mission",
+      "writtenForm": "Her Excellency Madame Ambassador Zheng",
       "spokenForm": "Your Excellency",
-      "usageNote": "An Ambassador holds the title 'Your Excellency' throughout their posting and customarily retains the courtesy of the style after retirement. A High Commissioner (in Commonwealth countries) is addressed identically."
-    },
-    {
-      "id": "address-high-commissioner",
-      "category": "diplomatic",
-      "title": "High Commissioner",
-      "role": "Ambassador between Commonwealth nations",
-      "writtenForm": "His / Her Excellency [Full Name], High Commissioner for [Country]",
-      "spokenForm": "Your Excellency",
-      "usageNote": "High Commissioners represent Commonwealth member states and hold equivalent rank to Ambassadors. The form of address is identical."
+      "usageNote": "Retained through posting and customarily thereafter. Commonwealth High Commissioners identical."
     },
     {
       "id": "address-minister-plenipotentiary",
       "category": "diplomatic",
-      "title": "Minister (Diplomatic)",
-      "role": "Diplomatic representative below Ambassador rank",
-      "writtenForm": "His / Her Excellency [Full Name], Minister of [Country]",
+      "title": "Minister Plenipotentiary",
+      "role": "Diplomatic rank below Ambassador",
+      "writtenForm": "His Excellency Mr Jian Liu, Minister of the People's Republic",
       "spokenForm": "Your Excellency",
-      "usageNote": "The title 'Your Excellency' is used for accredited Ministers Plenipotentiary. Chargés d'affaires, who act in the Ambassador's absence, may also hold this style during their tenure."
+      "usageNote": "Chargés d'affaires a.i. hold equivalent courtesy during tenure."
     },
     {
       "id": "address-field-marshal",
       "category": "military",
       "title": "Field Marshal",
-      "role": "Five-star senior officer, Army",
-      "writtenForm": "Field Marshal [Full Name]",
-      "spokenForm": "Field Marshal [Surname]",
-      "usageNote": "Field Marshal is a five-star rank. Officers of this rank retain their rank for life. In formal correspondence, the full rank precedes the name."
+      "role": "Five-star Army officer",
+      "writtenForm": "Field Marshal The Lord Dannatt GCB CBE MC",
+      "spokenForm": "Field Marshal Dannatt",
+      "usageNote": "Rank held for life. Full designation precedes name in formal use."
     },
     {
       "id": "address-general",
       "category": "military",
       "title": "General",
       "role": "Four-star Army officer",
-      "writtenForm": "General [Full Name]",
-      "spokenForm": "General [Surname]",
-      "usageNote": "Army, Marine, and Air Force generals are addressed by rank. Naval equivalents are Admiral. Always use the full rank in writing; 'General' suffices in conversation."
+      "writtenForm": "General Sir Mark Carleton-Smith KCB CBE",
+      "spokenForm": "General Carleton-Smith",
+      "usageNote": "Naval equivalent is Admiral. Rank precedes surname."
     },
     {
       "id": "address-lord-justice",
-      "category": "professional",
+      "category": "judiciary",
       "title": "Lord / Lady Justice of Appeal",
-      "role": "Judge of the Court of Appeal",
-      "writtenForm": "The Right Honourable Lord / Lady Justice [Surname]",
-      "spokenForm": "My Lord / My Lady",
-      "usageNote": "In court, all judges are addressed as 'My Lord' or 'My Lady'. In correspondence, use the formal style. Lords of Appeal in Ordinary are life peers and addressed accordingly."
+      "role": "Court of Appeal judge",
+      "writtenForm": "The Right Honourable Lord Justice Singh",
+      "spokenForm": "My Lord",
+      "usageNote": "In court: 'My Lord / My Lady'. Life peers where applicable."
     },
     {
       "id": "address-professor",
-      "category": "professional",
+      "category": "academic",
       "title": "Professor",
-      "role": "Full professor at a university",
-      "writtenForm": "Professor [Full Name]",
-      "spokenForm": "Professor [Surname]",
-      "usageNote": "The title 'Professor' is reserved for those holding a full professorship, not all academics. Using it for a lecturer or senior lecturer is incorrect and may cause offence."
+      "role": "University chair",
+      "writtenForm": "Professor Sir Richard Evans FBA",
+      "spokenForm": "Professor Evans",
+      "usageNote": "Reserved strictly for full professors, not lecturers."
     },
     {
       "id": "address-knight",
-      "category": "professional",
+      "category": "honours",
       "title": "Knight Bachelor",
-      "role": "Knight of the realm (non-hereditary)",
-      "writtenForm": "Sir [First Name] [Surname]",
-      "spokenForm": "Sir [First Name]",
-      "usageNote": "Knights are always addressed by their first name: 'Sir James', never 'Sir Smith'. The female equivalent, Dame, follows the same rule: 'Dame Helen', never 'Dame Mirren'."
+      "role": "Knight of the realm",
+      "writtenForm": "Sir Keir Starmer KC",
+      "spokenForm": "Sir Keir",
+      "usageNote": "Always first name: 'Sir James', never 'Sir Smith'. 'Dame Helen', never 'Dame Mirren'."
     }
   ]
 }
