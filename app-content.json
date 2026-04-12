@@ -1,8 +1,8 @@
 {
   "version": 1,
   "schema_version": 1,
-  "content_version": "2026-04-12.1",
-  "updated_at": "2026-04-12T08:59:32Z",
+  "content_version": "2026-04-12.2",
+  "updated_at": "2026-04-12T09:30:04Z",
   "minimum_app_version": null,
   "events": [
     {
@@ -370,7 +370,15 @@
       ],
       "related_event_ids": [],
       "featured": false,
-      "priority": 1
+      "priority": 1,
+      "event_start_date": "2026-01-16T09:00:00Z",
+      "event_end_date": "2026-01-20T22:00:00Z",
+      "briefing_release_date": "2025-10-18T09:00:00Z",
+      "season_year": 2026,
+      "status": "completed",
+      "last_updated_at": "2026-04-12T09:00:00Z",
+      "preview_summary": "The January menswear shows open the European fashion calendar with a rhythm built around appointments, presentations, and a great deal of silent judgment in hotel lobbies.",
+      "premium_briefing": "Milan rewards those who understand that being fashionably dressed and being correctly dressed for the room are not the same achievement."
     },
     {
       "id": "world-economic-forum-annual-meeting",
@@ -410,7 +418,15 @@
       ],
       "related_event_ids": [],
       "featured": false,
-      "priority": 2
+      "priority": 2,
+      "event_start_date": "2026-01-19T09:00:00Z",
+      "event_end_date": "2026-01-23T22:00:00Z",
+      "briefing_release_date": "2025-10-21T09:00:00Z",
+      "season_year": 2026,
+      "status": "completed",
+      "last_updated_at": "2026-04-12T09:00:00Z",
+      "preview_summary": "Davos is less a conference than a temporary court of power, where scheduling discipline, introductions, and discretion matter as much as any panel title.",
+      "premium_briefing": "The etiquette of Davos is about time, hierarchy, and confidentiality. Those who overplay access quickly reveal that they do not have it."
     },
     {
       "id": "snow-polo-world-cup-st-moritz",
@@ -450,7 +466,15 @@
       ],
       "related_event_ids": [],
       "featured": false,
-      "priority": 3
+      "priority": 3,
+      "event_start_date": "2026-01-23T09:00:00Z",
+      "event_end_date": "2026-01-25T22:00:00Z",
+      "briefing_release_date": "2025-10-25T09:00:00Z",
+      "season_year": 2026,
+      "status": "completed",
+      "last_updated_at": "2026-04-12T09:00:00Z",
+      "preview_summary": "Played on the frozen lake, Snow Polo is one of the clearest examples of Alpine society at full gloss: sport in the foreground, hospitality and observation just behind it.",
+      "premium_briefing": "It is a cold-weather occasion that still rewards polish. Looking prepared rather than overdressed is the mark to hit."
     },
     {
       "id": "paris-haute-couture-week",
@@ -490,7 +514,15 @@
       ],
       "related_event_ids": [],
       "featured": false,
-      "priority": 4
+      "priority": 4,
+      "event_start_date": "2026-01-26T09:00:00Z",
+      "event_end_date": "2026-01-29T22:00:00Z",
+      "briefing_release_date": "2025-10-28T09:00:00Z",
+      "season_year": 2026,
+      "status": "completed",
+      "last_updated_at": "2026-04-12T09:00:00Z",
+      "preview_summary": "Haute Couture Week is Paris at its most ceremonial in fashion terms: fewer rooms, more weight, and a higher premium on ease, judgment, and access.",
+      "premium_briefing": "Couture rooms are sensitive to proportion. Loud dressing, loud conversation, and loud ambition all read badly."
     },
     {
       "id": "the-ice-st-moritz",
@@ -530,7 +562,15 @@
       ],
       "related_event_ids": [],
       "featured": false,
-      "priority": 5
+      "priority": 5,
+      "event_start_date": "2026-01-30T09:00:00Z",
+      "event_end_date": "2026-01-31T22:00:00Z",
+      "briefing_release_date": "2025-11-01T09:00:00Z",
+      "season_year": 2026,
+      "status": "completed",
+      "last_updated_at": "2026-04-12T09:00:00Z",
+      "preview_summary": "The I.C.E. brings exceptional classic cars onto the frozen lake and turns an automotive concours into one of the season's most photogenic social gatherings.",
+      "premium_briefing": "It is a collector event disguised as spectacle. Knowing when to admire and when to step back is part of getting it right."
     },
     {
       "id": "piarist-debutante-ball",
@@ -570,7 +610,15 @@
       ],
       "related_event_ids": [],
       "featured": false,
-      "priority": 6
+      "priority": 6,
+      "event_start_date": "2026-01-31T19:00:00Z",
+      "event_end_date": "2026-01-31T23:30:00Z",
+      "briefing_release_date": "2025-11-02T19:00:00Z",
+      "season_year": 2026,
+      "status": "completed",
+      "last_updated_at": "2026-04-12T09:00:00Z",
+      "preview_summary": "A formal New York winter ball with charitable purpose and old-world formality, the Piarist Ball still values manners, introductions, and the choreography of the room.",
+      "premium_briefing": "Debutante evenings operate on visible courtesy. Family standing, patronage, and generosity all sit close to the surface."
     },
     {
       "id": "white-turf-st-moritz",
@@ -610,7 +658,15 @@
       ],
       "related_event_ids": [],
       "featured": false,
-      "priority": 7
+      "priority": 7,
+      "event_start_date": "2026-02-08T09:00:00Z",
+      "event_end_date": "2026-02-22T22:00:00Z",
+      "briefing_release_date": "2025-11-10T09:00:00Z",
+      "season_year": 2026,
+      "status": "completed",
+      "last_updated_at": "2026-04-12T09:00:00Z",
+      "preview_summary": "White Turf combines racing, hospitality, and St. Moritz spectacle across three Sundays, with the frozen lake acting as both sporting venue and social stage.",
+      "premium_briefing": "The occasion rewards those who understand that proper race-day polish still has to survive cold air, snow, and long hours outdoors."
     },
     {
       "id": "vienna-opera-ball",
@@ -652,7 +708,15 @@
         "white-tie"
       ],
       "featured": true,
-      "priority": 8
+      "priority": 8,
+      "event_start_date": "2026-02-12T18:00:00Z",
+      "event_end_date": "2026-02-13T03:00:00Z",
+      "briefing_release_date": "2025-11-14T18:00:00Z",
+      "season_year": 2026,
+      "status": "completed",
+      "last_updated_at": "2026-04-12T09:00:00Z",
+      "preview_summary": "The Opera Ball remains one of the rare evenings in Europe where white tie is not nostalgic styling but live protocol, observed closely and enforced without apology.",
+      "premium_briefing": "It is a room in which correctness still outranks flair. Guests who understand the sequence of the evening move differently from those who merely bought a ticket."
     },
     {
       "id": "cannes-film-festival",
@@ -692,7 +756,15 @@
       ],
       "related_event_ids": [],
       "featured": true,
-      "priority": 9
+      "priority": 9,
+      "event_start_date": "2026-05-12T09:00:00Z",
+      "event_end_date": "2026-05-23T23:00:00Z",
+      "briefing_release_date": "2026-02-11T09:00:00Z",
+      "season_year": 2026,
+      "status": "upcoming",
+      "last_updated_at": "2026-04-12T09:00:00Z",
+      "preview_summary": "Cannes is a festival, a market, and a social test conducted under Mediterranean light. Proper conduct is mostly about timing, dress discipline, and reading which invitation actually matters.",
+      "premium_briefing": "The red carpet is the visible part. The real calendar is built from screenings, lunches, yacht appointments, and dinners that run on hierarchy rather than noise."
     },
     {
       "id": "monaco-grand-prix",
@@ -732,7 +804,15 @@
       ],
       "related_event_ids": [],
       "featured": false,
-      "priority": 10
+      "priority": 10,
+      "event_start_date": "2026-06-04T09:00:00Z",
+      "event_end_date": "2026-06-07T22:00:00Z",
+      "briefing_release_date": "2026-03-06T09:00:00Z",
+      "season_year": 2026,
+      "status": "upcoming",
+      "last_updated_at": "2026-04-12T09:00:00Z",
+      "preview_summary": "Monaco Grand Prix weekend is as much about terraces, tenders, and invitations as it is about racing. The calendar rewards precision more than exuberance.",
+      "premium_briefing": "Monaco compresses hierarchy into a small geography. Which balcony, yacht, or dinner you are on says more than how loudly you arrive."
     },
     {
       "id": "royal-ascot",
@@ -774,7 +854,15 @@
         "morning-dress"
       ],
       "featured": true,
-      "priority": 11
+      "priority": 11,
+      "event_start_date": "2026-06-16T09:00:00Z",
+      "event_end_date": "2026-06-20T22:00:00Z",
+      "briefing_release_date": "2026-03-18T09:00:00Z",
+      "season_year": 2026,
+      "status": "upcoming",
+      "last_updated_at": "2026-04-12T09:00:00Z",
+      "preview_summary": "Five days of racing under royal patronage, Royal Ascot remains one of the few public occasions in Britain where dress discipline still has real consequence.",
+      "premium_briefing": "The distinction between being admitted and appearing correct is especially sharp at Ascot. Enclosure etiquette still functions as a social language."
     },
     {
       "id": "munich-opera-festival",
@@ -814,7 +902,15 @@
       ],
       "related_event_ids": [],
       "featured": false,
-      "priority": 12
+      "priority": 12,
+      "event_start_date": "2026-06-18T09:00:00Z",
+      "event_end_date": "2026-07-31T23:00:00Z",
+      "briefing_release_date": "2026-03-20T09:00:00Z",
+      "season_year": 2026,
+      "status": "upcoming",
+      "last_updated_at": "2026-04-12T09:00:00Z",
+      "preview_summary": "Munich's opera festival offers weeks of serious cultural programming with a social calendar built around performances, receptions, and long-established patron habits.",
+      "premium_briefing": "Unlike a single gala, the festival rewards consistency. One can appear correctly over a season or one can look as though one dressed only for opening night."
     },
     {
       "id": "wimbledon",
@@ -854,7 +950,15 @@
       ],
       "related_event_ids": [],
       "featured": false,
-      "priority": 13
+      "priority": 13,
+      "event_start_date": "2026-06-29T09:00:00Z",
+      "event_end_date": "2026-07-12T22:00:00Z",
+      "briefing_release_date": "2026-03-31T09:00:00Z",
+      "season_year": 2026,
+      "status": "upcoming",
+      "last_updated_at": "2026-04-12T09:00:00Z",
+      "preview_summary": "Wimbledon remains the most mannered Grand Slam, where queues, debentures, and private hosting all coexist under a distinctly English standard of composure.",
+      "premium_briefing": "It is a public event with private-club instincts. Ease, moderation, and correct summer dressing carry more weight than overt luxury."
     },
     {
       "id": "henley-royal-regatta",
@@ -894,7 +998,15 @@
       ],
       "related_event_ids": [],
       "featured": false,
-      "priority": 14
+      "priority": 14,
+      "event_start_date": "2026-06-30T09:00:00Z",
+      "event_end_date": "2026-07-05T22:00:00Z",
+      "briefing_release_date": "2026-04-01T09:00:00Z",
+      "season_year": 2026,
+      "status": "upcoming",
+      "last_updated_at": "2026-04-12T09:00:00Z",
+      "preview_summary": "Henley blends competitive rowing with one of the most recognisable codes of the English summer, where the riverbank doubles as clubland in daylight.",
+      "premium_briefing": "Henley is not about dramatic display. It is about understanding enclosure codes, river etiquette, and the art of appearing entirely at ease in heat and crowds."
     },
     {
       "id": "bayreuth-festival",
@@ -934,7 +1046,15 @@
       ],
       "related_event_ids": [],
       "featured": false,
-      "priority": 15
+      "priority": 15,
+      "event_start_date": "2026-07-24T09:00:00Z",
+      "event_end_date": "2026-08-26T22:00:00Z",
+      "briefing_release_date": "2026-04-25T09:00:00Z",
+      "season_year": 2026,
+      "status": "upcoming",
+      "last_updated_at": "2026-04-12T09:00:00Z",
+      "preview_summary": "Bayreuth is pilgrimage as much as festival. Guests arrive for Wagner, but the code of conduct is really about reverence for the institution and the room around it.",
+      "premium_briefing": "Bayreuth rewards cultural seriousness and punishes affectation. It is one of the few places where knowing the room is inseparable from knowing the work."
     },
     {
       "id": "monaco-yacht-show",
@@ -974,7 +1094,15 @@
       ],
       "related_event_ids": [],
       "featured": false,
-      "priority": 16
+      "priority": 16,
+      "event_start_date": "2026-09-23T09:00:00Z",
+      "event_end_date": "2026-09-26T22:00:00Z",
+      "briefing_release_date": "2026-06-25T09:00:00Z",
+      "season_year": 2026,
+      "status": "upcoming",
+      "last_updated_at": "2026-04-12T09:00:00Z",
+      "preview_summary": "The Monaco Yacht Show is a sales floor disguised as Riviera theatre. Access, punctuality, and restraint matter more than any attempt to perform wealth.",
+      "premium_briefing": "A yacht show is built around introductions and trust. Guests who ignore crew, timing, or deck etiquette make themselves memorable for the wrong reasons."
     },
     {
       "id": "singapore-grand-prix",
@@ -1014,7 +1142,15 @@
       ],
       "related_event_ids": [],
       "featured": false,
-      "priority": 17
+      "priority": 17,
+      "event_start_date": "2026-10-09T09:00:00Z",
+      "event_end_date": "2026-10-11T22:00:00Z",
+      "briefing_release_date": "2026-07-11T09:00:00Z",
+      "season_year": 2026,
+      "status": "upcoming",
+      "last_updated_at": "2026-04-12T09:00:00Z",
+      "preview_summary": "Singapore's night race is one of the cleanest combinations of serious hospitality and city-state precision on the Formula 1 calendar.",
+      "premium_briefing": "Guests who dress for the humidity, respect timing, and move efficiently through hospitality zones stand out for the right reasons."
     },
     {
       "id": "pad-london",
@@ -1054,7 +1190,15 @@
       ],
       "related_event_ids": [],
       "featured": false,
-      "priority": 18
+      "priority": 18,
+      "event_start_date": "2026-10-13T09:00:00Z",
+      "event_end_date": "2026-10-18T22:00:00Z",
+      "briefing_release_date": "2026-07-15T09:00:00Z",
+      "season_year": 2026,
+      "status": "upcoming",
+      "last_updated_at": "2026-04-12T09:00:00Z",
+      "preview_summary": "PAD brings design, decorative arts, and collector conversation into a setting that rewards taste, patience, and well-judged daytime polish.",
+      "premium_briefing": "Art-fair manners are largely about not treating every stand as a backdrop or every dealer as a shop assistant."
     },
     {
       "id": "frieze-london-and-frieze-masters",
@@ -1094,7 +1238,15 @@
       ],
       "related_event_ids": [],
       "featured": false,
-      "priority": 19
+      "priority": 19,
+      "event_start_date": "2026-10-14T09:00:00Z",
+      "event_end_date": "2026-10-18T22:00:00Z",
+      "briefing_release_date": "2026-07-16T09:00:00Z",
+      "season_year": 2026,
+      "status": "upcoming",
+      "last_updated_at": "2026-04-12T09:00:00Z",
+      "preview_summary": "Frieze week turns London into a dense circuit of fairs, dinners, previews, and private viewings, with Regent's Park as the obvious centre of gravity.",
+      "premium_briefing": "Art-fair etiquette is about looking, listening, and not mistaking visibility for importance. Good guests leave room for dealers to do their work."
     },
     {
       "id": "abu-dhabi-grand-prix",
@@ -1134,7 +1286,15 @@
       ],
       "related_event_ids": [],
       "featured": false,
-      "priority": 20
+      "priority": 20,
+      "event_start_date": "2026-12-04T09:00:00Z",
+      "event_end_date": "2026-12-06T22:00:00Z",
+      "briefing_release_date": "2026-09-05T09:00:00Z",
+      "season_year": 2026,
+      "status": "upcoming",
+      "last_updated_at": "2026-04-12T09:00:00Z",
+      "preview_summary": "Abu Dhabi closes the Formula 1 year with a hospitality calendar that stretches well beyond the track and rewards guests who can move through a busy weekend without looking hurried.",
+      "premium_briefing": "Final-race weekends gather more expectation than most. The room values polish, punctuality, and a strong sense of who is hosting whom."
     }
   ],
   "dining_topics": [
@@ -1264,7 +1424,7 @@
         },
         {
           "heading": "The Bread Plate",
-          "body": "The bread plate sits to your left. When in doubt: food left, drink right. The mnemonic BMW serves well — Bread, Meal, Water."
+          "body": "The bread plate sits to your left. When in doubt: food left, drink right. The mnemonic BMW serves well \u2014 Bread, Meal, Water."
         },
         {
           "heading": "Timing",
@@ -1380,7 +1540,7 @@
       "role": "Diplomatic rank below Ambassador",
       "writtenForm": "His Excellency Mr Jian Liu, Minister of the People's Republic",
       "spokenForm": "Your Excellency",
-      "usageNote": "Chargés d'affaires a.i. hold equivalent courtesy during tenure."
+      "usageNote": "Charg\u00e9s d'affaires a.i. hold equivalent courtesy during tenure."
     },
     {
       "id": "address-field-marshal",
